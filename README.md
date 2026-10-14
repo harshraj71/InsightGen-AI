@@ -1,16 +1,22 @@
-## Dashboard Preview
-
-![InsightGen-AI Dashboard](reports/dashboard_screenshot.png)
 # InsightGen-AI — Interactive Sales Analytics Dashboard
 
 An interactive sales analytics dashboard built with Python, Pandas, Plotly, and Streamlit to explore sales performance, profitability, product revenue, and regional trends.
+
+## 🚀 Live Demo
+
+Try the deployed dashboard here:
+
+[Open InsightGen-AI Dashboard](https://insightgen-ai-egu7knnbmnqkf6qg6girfs.streamlit.app/)
+
+## 📸 Dashboard Preview
+
+![InsightGen-AI Dashboard](reports/dashboard_screenshot.png)
 
 ## Overview
 
 InsightGen-AI includes a sales analysis workflow that cleans raw data, calculates business KPIs, and presents actionable insights through interactive visualizations.
 
 ## Features
-
 - Data cleaning and duplicate removal
 - Missing-value and data-quality checks
 - Revenue, profit, AOV, and profit margin KPIs
