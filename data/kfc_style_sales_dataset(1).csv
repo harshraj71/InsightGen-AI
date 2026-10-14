@@ -1,0 +1,1206 @@
+Order_ID,Order_Date,City,Region,Product,Category,Quantity,Unit_Price,Discount_Percent,Gross_Sales,Discount_Amount,Net_Sales,Cost,Profit,Payment_Method,Order_Channel,Customer_Type
+KFC100322,2025-01-01,Kolkata,East,Chocolate Lava Cake,Desserts,4,129,0.0,516,0.0,516.0,278.87,237.13,Cash,Food Delivery,Returning
+KFC100065,2025-01-01,Chandigarh,North,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,42.98,26.02,Debit Card,App,New
+KFC101038,2025-01-01,Bengaluru,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,137.28,70.77,Debit Card,Food Delivery,New
+KFC100084,2025-01-01,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,124.38,124.62,Wallet,App,Returning
+KFC100659,2025-01-01,Kolkata,East,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,123.3,108.9,Cash,In-Store,New
+KFC101019,2025-01-02,Mumbai,West,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,69.15,55.05,UPI,In-Store,Returning
+KFC101195,2025-01-02,Chandigarh,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,51.08,42.97,Debit Card,Website,New
+KFC101117,2025-01-02,Delhi,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,151.29,77.71,Debit Card,Website,Returning
+KFC100835,2025-01-02,Hyderabad,South,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,56.1,60.0,Wallet,App,New
+KFC101011,2025-01-02,Delhi,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,159.0,95.15,Cash,Website,Returning
+KFC100226,2025-01-03,Hyderabad,South,French Fries,Sides,2,99,5.0,198,9.9,188.1,117.8,70.3,Wallet,Food Delivery,Returning
+KFC100964,2025-01-03,Hyderabad,South,French Fries,Sides,1,99,15.0,99,14.85,84.15,52.03,32.12,Debit Card,In-Store,New
+KFC100129,2025-01-04,Pune,West,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,372.53,226.47,Credit Card,Website,Returning
+KFC100072,2025-01-05,Mumbai,West,French Fries,Sides,1,99,15.0,99,14.85,84.15,50.6,33.55,UPI,Website,Returning
+KFC100034,2025-01-06,Lucknow,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,128.42,57.73,Debit Card,In-Store,New
+KFC100534,2025-01-06,Pune,West,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,83.97,38.58,Wallet,Website,New
+KFC100424,2025-01-06,Lucknow,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,48.86,45.19,Credit Card,App,Returning
+KFC101086,2025-01-07,Lucknow,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,170.59,143.51,Debit Card,Website,Returning
+KFC100455,2025-01-07,Mumbai,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,148.45,80.55,Credit Card,App,Returning
+KFC100061,2025-01-07,Delhi,North,Mighty Zinger Burger,Burgers,2,299,10.0,598,59.8,538.2,270.31,267.89,Wallet,In-Store,New
+KFC100181,2025-01-07,Chandigarh,North,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,750.31,387.79,Debit Card,In-Store,Returning
+KFC100868,2025-01-07,Hyderabad,South,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,149.25,79.75,Cash,Food Delivery,Returning
+KFC101005,2025-01-08,Bengaluru,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,129.06,69.94,Credit Card,Food Delivery,Returning
+KFC100086,2025-01-08,Hyderabad,South,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,86.56,42.44,UPI,Food Delivery,New
+KFC100954,2025-01-08,Lucknow,North,Chicken Strips,Chicken,3,249,0.0,747,0.0,747.0,442.62,304.38,Credit Card,Website,Returning
+KFC100082,2025-01-08,Hyderabad,South,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,153.51,145.49,Cash,In-Store,Returning
+KFC100293,2025-01-08,Bengaluru,South,Chicken Bucket,Buckets,4,599,0.0,2396,0.0,2396.0,1256.57,1139.43,Wallet,In-Store,Returning
+KFC100343,2025-01-08,Delhi,North,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,424.9,238.2,Cash,App,Returning
+KFC100554,2025-01-08,Delhi,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,65.82,56.73,Wallet,Website,New
+KFC100215,2025-01-09,Kolkata,East,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,179.36,158.94,Credit Card,In-Store,Returning
+KFC100262,2025-01-10,Bengaluru,South,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,102.17,92.48,Wallet,In-Store,Returning
+KFC101010,2025-01-10,Mumbai,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,148.44,80.56,UPI,Food Delivery,New
+KFC101176,2025-01-11,Pune,West,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,53.36,56.29,Wallet,In-Store,New
+KFC100491,2025-01-11,Delhi,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,139.1,115.05,Credit Card,Website,Returning
+KFC100052,2025-01-12,Delhi,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,118.32,100.68,Credit Card,App,New
+KFC100848,2025-01-12,Lucknow,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,101.24,84.91,Debit Card,App,Returning
+KFC100165,2025-01-12,Lucknow,North,Hot & Crispy Chicken,Chicken,2,179,15.0,358,53.7,304.3,157.2,147.1,UPI,Website,Returning
+KFC101144,2025-01-13,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,84.09,38.46,Credit Card,App,Returning
+KFC100056,2025-01-13,Hyderabad,South,Chicken Biryani,Meals,3,229,15.0,687,103.05,583.95,335.41,248.54,UPI,Food Delivery,New
+KFC100508,2025-01-13,Mumbai,West,Rice Bowl,Meals,2,199,5.0,398,19.9,378.1,240.06,138.04,Credit Card,App,Returning
+KFC100098,2025-01-13,Mumbai,West,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,199.18,132.37,Credit Card,In-Store,New
+KFC100373,2025-01-13,Mumbai,West,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,220.35,128.65,Wallet,Website,New
+KFC100980,2025-01-13,Mumbai,West,Pepsi,Beverages,2,69,0.0,138,0.0,138.0,67.35,70.65,Cash,Food Delivery,Returning
+KFC100369,2025-01-13,Lucknow,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,279.7,289.35,Credit Card,App,Returning
+KFC100143,2025-01-14,Hyderabad,South,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,105.74,64.31,Debit Card,In-Store,New
+KFC100232,2025-01-14,Mumbai,West,Chicken Biryani,Meals,2,229,15.0,458,68.7,389.3,254.53,134.77,UPI,Food Delivery,Returning
+KFC100684,2025-01-14,Lucknow,North,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,32.56,29.54,UPI,App,New
+KFC100699,2025-01-14,Kolkata,East,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,133.7,98.5,Credit Card,In-Store,New
+KFC100360,2025-01-14,Mumbai,West,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,77.02,47.18,Credit Card,In-Store,New
+KFC100533,2025-01-14,Kolkata,East,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,138.35,69.7,Wallet,Food Delivery,Returning
+KFC100855,2025-01-15,Lucknow,North,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,99.6,97.5,Debit Card,App,New
+KFC100633,2025-01-15,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,112.0,58.05,Cash,Food Delivery,Returning
+KFC100173,2025-01-15,Pune,West,Mighty Zinger Burger,Burgers,2,299,20.0,598,119.6,478.4,249.15,229.25,UPI,Website,New
+KFC100818,2025-01-16,Chandigarh,North,Rice Bowl,Meals,2,199,5.0,398,19.9,378.1,242.4,135.7,Credit Card,In-Store,New
+KFC100910,2025-01-16,Bengaluru,South,French Fries,Sides,2,99,10.0,198,19.8,178.2,104.03,74.17,Wallet,App,Returning
+KFC100657,2025-01-16,Delhi,North,Zinger Combo,Combos,4,349,5.0,1396,69.8,1326.2,905.2,421.0,Debit Card,App,Returning
+KFC100598,2025-01-16,Lucknow,North,Chocolate Lava Cake,Desserts,2,129,5.0,258,12.9,245.1,133.63,111.47,Debit Card,Food Delivery,Returning
+KFC101163,2025-01-17,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,35.7,33.3,Credit Card,App,Returning
+KFC100284,2025-01-17,Chandigarh,North,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,761.6,436.4,Credit Card,Website,New
+KFC101127,2025-01-17,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,175.19,78.96,Cash,App,Returning
+KFC101100,2025-01-17,Chandigarh,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,213.61,117.94,Cash,Food Delivery,New
+KFC100661,2025-01-18,Hyderabad,South,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,739.68,458.32,Wallet,App,Returning
+KFC100574,2025-01-18,Lucknow,North,Hot & Crispy Chicken,Chicken,2,179,10.0,358,35.8,322.2,202.83,119.37,Debit Card,Food Delivery,New
+KFC100039,2025-01-20,Pune,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,141.55,87.45,UPI,In-Store,Returning
+KFC100345,2025-01-20,Kolkata,East,Chicken Strips,Chicken,2,249,0.0,498,0.0,498.0,326.05,171.95,UPI,Website,New
+KFC100264,2025-01-20,Delhi,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,174.08,95.02,Debit Card,In-Store,New
+KFC100951,2025-01-20,Pune,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,114.95,114.05,UPI,Website,New
+KFC101035,2025-01-21,Hyderabad,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,111.5,96.55,Debit Card,App,Returning
+KFC100783,2025-01-21,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,60.64,55.46,Debit Card,Website,Returning
+KFC100799,2025-01-21,Mumbai,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,134.06,90.04,Cash,In-Store,New
+KFC100819,2025-01-22,Mumbai,West,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,120.94,90.71,Wallet,In-Store,Returning
+KFC100923,2025-01-22,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,81.01,47.99,UPI,In-Store,Returning
+KFC100003,2025-01-22,Mumbai,West,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,190.88,158.12,Wallet,In-Store,New
+KFC101007,2025-01-23,Hyderabad,South,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,172.46,81.69,Wallet,In-Store,Returning
+KFC100889,2025-01-23,Hyderabad,South,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,119.79,74.86,Debit Card,App,New
+KFC100403,2025-01-24,Bengaluru,South,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,275.24,159.86,Credit Card,In-Store,New
+KFC100852,2025-01-24,Lucknow,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,32.65,32.9,Wallet,Food Delivery,Returning
+KFC101080,2025-01-24,Pune,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,136.15,87.95,Cash,App,New
+KFC100296,2025-01-25,Mumbai,West,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,168.49,180.51,Debit Card,App,New
+KFC100606,2025-01-25,Pune,West,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,410.78,188.22,UPI,App,Returning
+KFC100548,2025-01-25,Kolkata,East,Rice Bowl,Meals,2,199,0.0,398,0.0,398.0,240.55,157.45,Credit Card,Website,Returning
+KFC100235,2025-01-25,Kolkata,East,French Fries,Sides,1,99,5.0,99,4.95,94.05,46.55,47.5,Cash,App,Returning
+KFC100137,2025-01-25,Delhi,North,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,126.06,80.04,Debit Card,Food Delivery,New
+KFC101196,2025-01-26,Pune,West,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,60.48,62.07,Credit Card,Food Delivery,New
+KFC100730,2025-01-27,Delhi,North,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,270.2,142.0,Cash,In-Store,Returning
+KFC100172,2025-01-27,Kolkata,East,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,153.63,145.37,Credit Card,In-Store,New
+KFC101004,2025-01-27,Delhi,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,408.04,190.96,UPI,Website,Returning
+KFC100475,2025-01-27,Bengaluru,South,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,285.57,126.63,Cash,In-Store,New
+KFC100945,2025-01-28,Pune,West,Hot & Crispy Chicken,Chicken,2,179,5.0,358,17.9,340.1,171.69,168.41,Cash,Website,New
+KFC100371,2025-01-28,Delhi,North,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,346.37,192.73,Cash,In-Store,Returning
+KFC100472,2025-01-28,Lucknow,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,176.22,137.88,UPI,App,New
+KFC100775,2025-01-29,Bengaluru,South,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,42.84,22.71,Cash,Food Delivery,New
+KFC100015,2025-01-29,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,96.46,64.64,Cash,App,New
+KFC100423,2025-01-29,,East,Rice Bowl,Meals,2,199,10.0,398,39.8,358.2,219.31,138.89,Credit Card,Food Delivery,Returning
+KFC101065,2025-01-29,Kolkata,East,French Fries,Sides,1,99,15.0,99,14.85,84.15,48.55,35.6,Debit Card,In-Store,New
+KFC100479,2025-01-29,Pune,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,117.15,119.4,Debit Card,Food Delivery,Returning
+KFC100487,2025-01-29,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,73.67,42.43,Credit Card,Website,Returning
+KFC100567,2025-01-30,Kolkata,East,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,119.56,77.54,Cash,Website,New
+KFC101164,2025-01-31,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,75.19,53.81,Cash,In-Store,Returning
+KFC100414,2025-02-01,Lucknow,North,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,97.52,91.53,Cash,Website,New
+KFC100716,2025-02-01,Chandigarh,North,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,133.68,72.42,Wallet,App,Returning
+KFC100953,2025-02-01,Kolkata,East,Pepsi,Beverages,2,69,0.0,138,0.0,138.0,68.06,69.94,Credit Card,In-Store,Returning
+KFC100294,2025-02-01,Pune,West,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,57.86,58.24,UPI,In-Store,Returning
+KFC100377,2025-02-02,Pune,West,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,326.17,272.83,Credit Card,Food Delivery,New
+KFC101122,2025-02-02,Delhi,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,139.09,79.91,Wallet,Food Delivery,New
+KFC100602,2025-02-02,Pune,West,Chicken Popcorn,Chicken,1,299,20.0,299,59.8,239.2,115.37,123.83,Credit Card,App,Returning
+KFC100558,2025-02-03,Pune,West,Chicken Bucket,Buckets,2,599,10.0,1198,119.8,1078.2,597.6,480.6,Wallet,Food Delivery,Returning
+KFC100941,2025-02-04,Mumbai,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,134.75,71.35,UPI,Food Delivery,Returning
+KFC100792,2025-02-04,Pune,West,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,306.02,291.98,Cash,In-Store,Returning
+KFC100765,2025-02-04,Delhi,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,39.67,25.88,Debit Card,In-Store,New
+KFC100494,2025-02-05,Hyderabad,South,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,35.83,29.72,Wallet,Website,Returning
+KFC100446,2025-02-05,Delhi,North,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,301.39,156.61,Credit Card,App,Returning
+KFC100055,2025-02-05,Pune,West,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,81.86,35.44,Credit Card,App,Returning
+KFC100027,2025-02-06,Delhi,North,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,202.54,96.46,Debit Card,Food Delivery,New
+KFC100527,2025-02-06,Pune,West,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,128.13,129.87,Debit Card,App,Returning
+KFC100785,2025-02-06,Pune,West,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,61.19,56.11,UPI,In-Store,New
+KFC100353,2025-02-06,Bengaluru,South,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,217.49,120.81,Wallet,In-Store,Returning
+KFC100654,2025-02-07,Hyderabad,South,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,392.36,270.74,Debit Card,Website,Returning
+KFC100559,2025-02-07,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,86.19,83.86,Cash,Food Delivery,Returning
+KFC100228,2025-02-07,Lucknow,North,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,792.76,405.24,Cash,Website,New
+KFC101078,2025-02-07,Lucknow,North,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,134.86,62.24,Debit Card,App,Returning
+KFC101173,2025-02-07,Pune,West,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,106.09,92.91,Debit Card,App,New
+KFC100146,2025-02-08,Hyderabad,South,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,83.97,38.58,Cash,App,Returning
+KFC100168,2025-02-08,Mumbai,West,Pepsi,Beverages,1,69,20.0,69,13.8,55.2,31.67,23.53,Wallet,App,New
+KFC100925,2025-02-08,Mumbai,West,Hot & Crispy Chicken,Chicken,2,179,10.0,358,35.8,322.2,194.06,128.14,Debit Card,In-Store,New
+KFC100840,2025-02-08,Chandigarh,North,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,195.22,162.78,UPI,Website,Returning
+KFC100599,2025-02-08,Pune,West,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,98.31,53.84,UPI,In-Store,New
+KFC100048,2025-02-08,Pune,West,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,105.28,73.72,Cash,App,Returning
+KFC100327,2025-02-08,Pune,West,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,79.06,37.04,Cash,Food Delivery,Returning
+KFC101133,2025-02-08,Delhi,North,Zinger Combo,Combos,2,349,20.0,698,139.6,558.4,351.47,206.93,UPI,In-Store,New
+KFC100632,2025-02-08,Pune,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,156.4,157.7,Credit Card,Website,Returning
+KFC100877,2025-02-09,Lucknow,North,Chicken Popcorn,Chicken,2,299,10.0,598,59.8,538.2,282.91,255.29,Wallet,App,Returning
+KFC100434,2025-02-10,Mumbai,West,Chocolate Lava Cake,Desserts,4,129,0.0,516,0.0,516.0,309.76,206.24,Credit Card,Website,Returning
+KFC100180,2025-02-10,Bengaluru,South,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,124.9,129.25,Credit Card,In-Store,Returning
+KFC100398,2025-02-10,Pune,West,Pepsi,Beverages,3,69,0.0,207,0.0,207.0,137.61,69.39,UPI,App,New
+KFC100091,2025-02-11,Mumbai,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,189.77,124.33,UPI,App,Returning
+KFC100340,2025-02-11,Pune,West,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,130.76,66.34,Credit Card,In-Store,Returning
+KFC100933,2025-02-11,Bengaluru,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,161.4,122.65,Cash,App,Returning
+KFC100245,2025-02-11,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,161.0,123.05,Wallet,Website,Returning
+KFC100568,2025-02-11,Chandigarh,North,Pepsi,Beverages,3,69,5.0,207,10.35,196.65,122.99,73.66,Wallet,Website,New
+KFC100231,2025-02-11,Chandigarh,North,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,477.94,220.06,Credit Card,App,Returning
+KFC100130,2025-02-11,Hyderabad,South,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,303.72,205.43,Cash,App,New
+KFC100289,2025-02-11,Delhi,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,308.5,260.55,Cash,Food Delivery,New
+KFC100577,2025-02-12,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,70.4,58.6,UPI,App,Returning
+KFC100757,2025-02-13,Kolkata,East,Chicken Bucket,Buckets,1,599,20.0,599,119.8,479.2,259.35,219.85,Credit Card,App,Returning
+KFC100536,2025-02-13,Delhi,North,Hot & Crispy Chicken,Chicken,2,179,15.0,358,53.7,304.3,161.06,143.24,Debit Card,Food Delivery,Returning
+KFC100540,2025-02-14,Kolkata,East,Chicken Popcorn,Chicken,1,299,20.0,299,59.8,239.2,128.62,110.58,Credit Card,In-Store,New
+KFC101198,2025-02-14,Bengaluru,South,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,164.77,104.33,Debit Card,App,Returning
+KFC100488,2025-02-14,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,98.48,62.62,Debit Card,Food Delivery,Returning
+KFC100449,2025-02-14,Pune,West,Rice Bowl,Meals,2,199,5.0,398,19.9,378.1,222.2,155.9,UPI,Food Delivery,New
+KFC100902,2025-02-14,Kolkata,East,Mighty Zinger Burger,Burgers,3,299,0.0,897,0.0,897.0,590.69,306.31,Cash,Food Delivery,New
+KFC100776,2025-02-15,Bengaluru,South,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,81.45,35.85,Credit Card,Food Delivery,New
+KFC100975,2025-02-15,Bengaluru,South,French Fries,Sides,1,99,5.0,99,4.95,94.05,64.49,29.56,UPI,Website,Returning
+KFC100864,2025-02-16,Lucknow,North,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,351.6,187.5,Debit Card,Website,New
+KFC100435,2025-02-16,Hyderabad,South,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,125.07,69.58,UPI,App,New
+KFC100047,2025-02-16,Pune,West,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,142.08,141.97,UPI,Website,Returning
+KFC100811,2025-02-16,Mumbai,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,50.14,48.86,Credit Card,In-Store,Returning
+KFC100966,2025-02-16,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,67.48,42.17,Cash,In-Store,New
+KFC101071,2025-02-16,Mumbai,West,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,739.03,399.07,Debit Card,Website,Returning
+KFC100459,2025-02-17,Bengaluru,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,186.56,97.49,Credit Card,In-Store,New
+KFC100388,2025-02-17,Chandigarh,North,Mighty Zinger Burger,Burgers,3,299,0.0,897,0.0,897.0,618.32,278.68,Debit Card,Website,Returning
+KFC100045,2025-02-17,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,41.46,27.54,UPI,In-Store,Returning
+KFC100413,2025-02-18,Kolkata,East,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,176.65,172.35,Cash,In-Store,Returning
+KFC100362,2025-02-18,Mumbai,West,Chicken Bucket,Buckets,2,599,10.0,1198,119.8,1078.2,581.95,496.25,UPI,Food Delivery,New
+KFC101125,2025-02-18,Pune,West,Chocolate Lava Cake,Desserts,3,129,0.0,387,0.0,387.0,226.72,160.28,UPI,In-Store,Returning
+KFC100692,2025-02-18,Pune,West,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,105.88,55.22,Cash,Website,Returning
+KFC100906,2025-02-18,Chandigarh,North,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,104.94,92.16,Cash,App,New
+KFC101033,2025-02-19,Delhi,North,Chicken Popcorn,Chicken,2,299,10.0,598,59.8,538.2,287.93,250.27,UPI,Food Delivery,New
+KFC100223,2025-02-19,Chandigarh,North,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,159.34,77.21,Debit Card,Website,New
+KFC100058,2025-02-21,Bengaluru,South,French Fries,Sides,1,99,5.0,99,4.95,94.05,64.8,29.25,Debit Card,Website,Returning
+KFC100211,2025-02-21,Pune,West,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,92.47,86.53,Debit Card,App,Returning
+KFC100492,2025-02-21,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,47.43,21.57,Wallet,In-Store,Returning
+KFC100769,2025-02-21,Hyderabad,South,French Fries,Sides,1,99,15.0,99,14.85,84.15,51.08,33.07,UPI,Website,Returning
+KFC100773,2025-02-22,Pune,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,35.18,33.82,Debit Card,Website,Returning
+KFC100059,2025-02-22,Pune,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,148.54,88.01,UPI,Food Delivery,New
+KFC101139,2025-02-23,Hyderabad,South,French Fries,Sides,2,99,15.0,198,29.7,168.3,84.16,84.14,Debit Card,Website,Returning
+KFC100036,2025-02-23,Lucknow,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,117.93,90.12,Credit Card,Food Delivery,Returning
+KFC100850,2025-02-24,Pune,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,184.83,99.22,UPI,App,New
+KFC100113,2025-02-24,Kolkata,East,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,32.44,26.21,Debit Card,In-Store,Returning
+KFC100927,2025-02-25,Kolkata,East,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,341.49,197.61,Debit Card,Food Delivery,New
+KFC101179,2025-02-25,Delhi,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,149.65,67.9,UPI,Website,Returning
+KFC101152,2025-02-25,Delhi,North,Chicken Biryani,Meals,4,229,10.0,916,91.6,824.4,539.63,284.77,Debit Card,Website,Returning
+KFC100333,2025-02-25,Mumbai,West,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,96.67,92.38,UPI,App,Returning
+KFC101187,2025-02-26,Lucknow,North,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,132.27,125.73,Wallet,Website,New
+KFC100285,2025-02-26,Delhi,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,375.05,223.95,Credit Card,Website,Returning
+KFC101123,2025-02-26,Lucknow,North,Zinger Burger,Burgers,2,219,5.0,438,21.9,416.1,210.05,206.05,Cash,Food Delivery,Returning
+KFC100668,2025-02-26,Delhi,North,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,215.82,122.48,Cash,Website,Returning
+KFC100871,2025-02-27,Hyderabad,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,105.2,93.8,UPI,In-Store,Returning
+KFC100969,2025-02-27,Chandigarh,North,Pepsi,Beverages,2,69,5.0,138,6.9,131.1,71.87,59.23,UPI,App,Returning
+KFC100361,2025-02-28,Lucknow,North,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,113.48,110.62,Credit Card,In-Store,Returning
+KFC100379,2025-02-28,Delhi,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,120.35,108.65,Cash,In-Store,New
+KFC100728,2025-02-28,Mumbai,West,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,102.49,76.61,UPI,In-Store,Returning
+KFC100246,2025-03-01,Lucknow,North,French Fries,Sides,2,99,5.0,198,9.9,188.1,118.76,69.34,Wallet,App,Returning
+KFC101016,2025-03-01,Mumbai,West,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,92.41,76.74,Wallet,App,Returning
+KFC100083,2025-03-02,Bengaluru,South,French Fries,Sides,2,99,5.0,198,9.9,188.1,130.56,57.54,Credit Card,Food Delivery,New
+KFC101023,2025-03-02,Pune,West,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,163.53,90.62,Credit Card,Food Delivery,New
+KFC100804,2025-03-03,Delhi,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,44.09,21.46,UPI,App,Returning
+KFC100666,2025-03-03,Bengaluru,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,105.32,93.68,Wallet,Website,Returning
+KFC100311,2025-03-03,Delhi,North,Zinger Combo,Combos,4,349,10.0,1396,139.6,1256.4,749.93,506.47,UPI,In-Store,New
+KFC100806,2025-03-03,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,153.16,115.94,Credit Card,In-Store,New
+KFC100012,2025-03-03,Hyderabad,South,Mighty Zinger Burger,Burgers,2,299,5.0,598,29.9,568.1,284.61,283.49,Wallet,Food Delivery,Returning
+KFC100463,2025-03-03,Hyderabad,South,Pepsi,Beverages,2,69,0.0,138,0.0,138.0,72.85,65.15,UPI,App,New
+KFC100240,2025-03-04,Pune,West,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,97.56,72.49,Wallet,In-Store,Returning
+KFC100151,2025-03-04,Hyderabad,South,French Fries,Sides,4,99,0.0,396,0.0,396.0,272.21,123.79,Wallet,Food Delivery,Returning
+KFC100725,2025-03-04,Delhi,North,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,411.72,186.28,UPI,Food Delivery,New
+KFC100550,2025-03-05,Pune,West,Chocolate Lava Cake,Desserts,2,129,20.0,258,51.6,206.4,105.22,101.18,Credit Card,In-Store,New
+KFC100709,2025-03-05,Delhi,North,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,257.61,251.54,UPI,App,New
+KFC100429,2025-03-06,Delhi,North,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,167.67,181.33,Debit Card,Website,Returning
+KFC101012,2025-03-06,Kolkata,East,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,141.41,95.14,Cash,App,Returning
+KFC100693,2025-03-07,Kolkata,East,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,120.3,108.7,Credit Card,App,Returning
+KFC101132,2025-03-07,Bengaluru,South,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,183.29,148.26,UPI,In-Store,Returning
+KFC100609,2025-03-08,Kolkata,East,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,175.24,78.91,Credit Card,In-Store,Returning
+KFC100216,2025-03-09,Lucknow,North,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,66.6,57.6,Credit Card,In-Store,Returning
+KFC100605,2025-03-09,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,164.47,84.53,Debit Card,Website,New
+KFC100404,2025-03-10,Delhi,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,56.78,42.22,Wallet,Website,Returning
+KFC100808,2025-03-10,Chandigarh,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,142.22,76.78,Wallet,App,New
+KFC100778,2025-03-10,Bengaluru,South,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,88.45,90.55,UPI,Website,Returning
+KFC100601,2025-03-11,Hyderabad,South,Zinger Burger,Burgers,2,219,20.0,438,87.6,350.4,181.85,168.55,Cash,In-Store,Returning
+KFC101120,2025-03-12,Kolkata,East,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,194.6,104.4,Debit Card,In-Store,Returning
+KFC100676,2025-03-12,Hyderabad,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,169.53,114.52,Debit Card,Website,Returning
+KFC100213,2025-03-12,Hyderabad,South,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,76.82,52.18,UPI,Website,New
+KFC100722,2025-03-12,Kolkata,East,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,40.53,25.02,UPI,In-Store,Returning
+KFC100696,2025-03-12,Chandigarh,North,Chicken Bucket,Buckets,2,599,10.0,1198,119.8,1078.2,594.82,483.38,Debit Card,Website,New
+KFC100291,2025-03-13,Lucknow,North,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,111.46,94.64,UPI,Food Delivery,New
+KFC100751,2025-03-13,Chandigarh,North,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,156.15,101.85,Credit Card,Food Delivery,Returning
+KFC100996,2025-03-13,Kolkata,East,French Fries,Sides,1,99,10.0,99,9.9,89.1,60.64,28.46,Credit Card,Food Delivery,Returning
+KFC100637,2025-03-14,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,115.73,54.32,Cash,Food Delivery,New
+KFC100520,2025-03-14,Hyderabad,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,57.78,41.22,Credit Card,In-Store,Returning
+KFC100788,2025-03-14,Chandigarh,North,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,33.99,28.11,Wallet,Food Delivery,Returning
+KFC100967,2025-03-14,Chandigarh,North,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,109.52,114.58,Cash,In-Store,New
+KFC101000,2025-03-14,Kolkata,East,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,341.71,197.39,Debit Card,App,Returning
+KFC100786,2025-03-14,Chandigarh,North,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,244.17,104.83,UPI,Food Delivery,Returning
+KFC101070,2025-03-14,Hyderabad,South,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,105.68,73.42,UPI,Food Delivery,Returning
+KFC101009,2025-03-14,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,76.08,33.57,Credit Card,In-Store,Returning
+KFC101044,2025-03-15,Lucknow,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,58.95,35.1,UPI,Food Delivery,New
+KFC100426,2025-03-15,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,37.48,31.52,Credit Card,Food Delivery,Returning
+KFC100803,2025-03-15,Chandigarh,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,122.86,56.24,Debit Card,App,Returning
+KFC101037,2025-03-15,Chandigarh,North,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,118.78,117.77,Credit Card,In-Store,Returning
+KFC100300,2025-03-16,Chandigarh,North,Chicken Popcorn,Chicken,2,299,10.0,598,59.8,538.2,280.98,257.22,UPI,Food Delivery,Returning
+KFC101001,2025-03-17,Kolkata,East,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,204.61,144.39,Debit Card,Food Delivery,Returning
+KFC100100,2025-03-17,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,184.72,84.38,Debit Card,Food Delivery,Returning
+KFC100201,2025-03-17,Mumbai,West,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,308.31,200.84,Debit Card,In-Store,Returning
+KFC101113,2025-03-18,Pune,West,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,91.51,97.54,Wallet,App,Returning
+KFC100178,2025-03-18,Chandigarh,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,383.63,185.42,Cash,Website,Returning
+KFC101076,2025-03-18,Chandigarh,North,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,174.58,174.42,Cash,Website,Returning
+KFC100501,2025-03-18,Pune,West,Chicken Biryani,Meals,2,229,15.0,458,68.7,389.3,230.56,158.74,UPI,In-Store,Returning
+KFC100212,2025-03-18,Lucknow,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,171.57,97.53,Cash,Website,New
+KFC101169,2025-03-18,Bengaluru,South,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,71.59,57.41,Wallet,In-Store,Returning
+KFC100585,2025-03-18,Mumbai,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,124.94,104.06,Cash,App,New
+KFC100139,2025-03-21,Mumbai,West,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,103.83,104.22,Debit Card,In-Store,Returning
+KFC101024,2025-03-21,Bengaluru,South,French Fries,Sides,3,99,5.0,297,14.85,282.15,157.3,124.85,Cash,Food Delivery,New
+KFC101106,2025-03-22,Chandigarh,North,Rice Bowl,Meals,3,199,0.0,597,0.0,597.0,328.06,268.94,Cash,Food Delivery,Returning
+KFC100802,2025-03-23,Chandigarh,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,199.9,99.1,Cash,In-Store,Returning
+KFC101002,2025-03-23,Bengaluru,South,Pepsi,Beverages,1,69,20.0,69,13.8,55.2,34.42,20.78,Cash,In-Store,Returning
+KFC100928,2025-03-23,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,146.09,108.06,Cash,App,New
+KFC100071,2025-03-23,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,167.98,86.17,Debit Card,In-Store,Returning
+KFC101121,2025-03-23,Mumbai,West,Chicken Popcorn,Chicken,2,299,15.0,598,89.7,508.3,339.15,169.15,Credit Card,Food Delivery,Returning
+KFC100184,2025-03-23,Pune,West,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,243.03,169.17,Credit Card,Food Delivery,New
+KFC100643,2025-03-24,Lucknow,North,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,427.17,270.83,Credit Card,App,New
+KFC100978,2025-03-24,Bengaluru,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,116.74,91.31,UPI,In-Store,Returning
+KFC100870,2025-03-24,Bengaluru,South,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,164.13,72.42,Cash,Food Delivery,Returning
+KFC100444,2025-03-24,Pune,West,Mighty Zinger Burger,Burgers,2,299,10.0,598,59.8,538.2,356.2,182.0,Debit Card,In-Store,New
+KFC100505,2025-03-25,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,106.4,72.6,Cash,App,Returning
+KFC100779,2025-03-26,Pune,West,Zinger Combo,Combos,3,349,0.0,1047,0.0,1047.0,594.23,452.77,UPI,Food Delivery,Returning
+KFC101052,2025-03-26,Bengaluru,South,Chicken Strips,Chicken,2,249,0.0,498,0.0,498.0,289.02,208.98,Cash,In-Store,Returning
+KFC100833,2025-03-26,Lucknow,North,Chicken Bucket,Buckets,1,599,20.0,599,119.8,479.2,245.6,233.6,Debit Card,App,New
+KFC100075,2025-03-26,Pune,West,Rice Bowl,Meals,2,199,10.0,398,39.8,358.2,201.71,156.49,UPI,Website,New
+KFC100705,2025-03-27,Delhi,North,French Fries,Sides,2,99,15.0,198,29.7,168.3,112.72,55.58,Cash,Website,Returning
+KFC100263,2025-03-27,Bengaluru,South,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,73.35,49.2,Credit Card,Website,Returning
+KFC100241,2025-03-27,Hyderabad,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,147.4,136.65,Wallet,Website,New
+KFC100248,2025-03-28,Chandigarh,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,93.68,92.47,Wallet,In-Store,New
+KFC100743,2025-03-28,Lucknow,North,Rice Bowl,Meals,3,199,5.0,597,29.85,567.15,343.46,223.69,UPI,App,Returning
+KFC101126,2025-03-28,Bengaluru,South,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,340.11,198.99,UPI,Website,Returning
+KFC100754,2025-03-29,Lucknow,North,Rice Bowl,Meals,2,199,0.0,398,0.0,398.0,195.36,202.64,UPI,App,Returning
+KFC100968,2025-03-29,Kolkata,East,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,33.76,31.79,Debit Card,App,Returning
+KFC100624,2025-03-29,Pune,West,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,119.34,77.76,Debit Card,Food Delivery,New
+KFC100140,2025-03-30,Hyderabad,South,Zinger Burger,Burgers,2,219,10.0,438,43.8,394.2,274.26,119.94,Cash,Food Delivery,Returning
+KFC101018,2025-03-30,Delhi,North,Chicken Biryani,Meals,3,229,15.0,687,103.05,583.95,373.1,210.85,UPI,App,Returning
+KFC100154,2025-03-30,Lucknow,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,173.44,95.66,UPI,In-Store,Returning
+KFC101160,2025-03-30,Mumbai,West,Pepsi,Beverages,3,69,15.0,207,31.05,175.95,99.22,76.73,Debit Card,Website,Returning
+KFC100984,2025-03-30,Bengaluru,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,67.83,31.17,Debit Card,In-Store,Returning
+KFC100102,2025-03-30,Pune,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,152.33,71.77,Wallet,Website,Returning
+KFC100940,2025-03-30,Mumbai,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,59.79,39.21,Wallet,Website,Returning
+KFC100053,2025-03-31,Hyderabad,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,189.14,94.91,Credit Card,Food Delivery,New
+KFC100600,2025-03-31,Bengaluru,South,Zinger Combo,Combos,2,349,15.0,698,104.7,593.3,331.75,261.55,Wallet,Food Delivery,Returning
+KFC100714,2025-03-31,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,138.32,110.68,Debit Card,Website,Returning
+KFC101075,2025-04-01,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,20.0,179,35.8,143.2,92.39,50.81,Cash,Food Delivery,New
+KFC100438,2025-04-01,Kolkata,East,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,116.55,101.0,Debit Card,Website,Returning
+KFC100525,2025-04-01,Pune,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,36.43,32.57,Credit Card,App,Returning
+KFC100768,2025-04-01,Hyderabad,South,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,215.05,123.25,Credit Card,In-Store,Returning
+KFC100177,2025-04-02,Delhi,North,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,175.25,123.75,Cash,App,Returning
+KFC100736,2025-04-02,Bengaluru,South,Zinger Combo,Combos,4,349,0.0,1396,0.0,1396.0,699.78,696.22,UPI,Food Delivery,Returning
+KFC100614,2025-04-02,Kolkata,East,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,60.07,56.03,Debit Card,In-Store,Returning
+KFC100123,2025-04-02,Kolkata,East,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,139.17,66.93,Credit Card,Food Delivery,New
+KFC100784,2025-04-03,Chandigarh,North,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,127.58,78.52,UPI,Food Delivery,Returning
+KFC100915,2025-04-03,Delhi,North,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,559.54,578.56,Cash,App,Returning
+KFC100185,2025-04-03,Delhi,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,130.24,98.76,UPI,Food Delivery,Returning
+KFC101193,2025-04-03,Chandigarh,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,35.62,29.93,UPI,App,Returning
+KFC100988,2025-04-03,Chandigarh,North,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,96.86,86.34,UPI,In-Store,Returning
+KFC100888,2025-04-03,Chandigarh,North,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,202.69,135.61,Credit Card,In-Store,Returning
+KFC101066,2025-04-04,Mumbai,West,Chicken Biryani,Meals,2,229,15.0,458,68.7,389.3,262.47,126.83,Credit Card,App,New
+KFC100391,2025-04-04,Lucknow,North,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,120.62,68.43,UPI,Food Delivery,Returning
+KFC100468,2025-04-04,Lucknow,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,120.75,108.25,Cash,Website,Returning
+KFC100826,2025-04-04,Delhi,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,95.64,83.46,Cash,App,Returning
+KFC101161,2025-04-04,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,60.99,55.11,Wallet,Food Delivery,Returning
+KFC100907,2025-04-04,Hyderabad,South,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,149.24,79.76,UPI,Food Delivery,Returning
+KFC100099,2025-04-04,Delhi,North,Chicken Strips,Chicken,2,249,10.0,498,49.8,448.2,261.64,186.56,UPI,App,Returning
+KFC100920,2025-04-04,Lucknow,North,French Fries,Sides,1,99,10.0,99,9.9,89.1,54.85,34.25,Debit Card,In-Store,Returning
+KFC100561,2025-04-05,Pune,West,Hot & Crispy Chicken,Chicken,4,179,0.0,716,0.0,716.0,413.7,302.3,Cash,Food Delivery,New
+KFC100076,2025-04-05,Kolkata,East,Hot & Crispy Chicken,Chicken,2,179,10.0,358,35.8,322.2,157.98,164.22,Credit Card,Website,Returning
+KFC100108,2025-04-05,Pune,West,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,141.37,76.18,Debit Card,Food Delivery,Returning
+KFC101069,2025-04-05,Bengaluru,South,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,230.94,227.06,Wallet,App,Returning
+KFC101058,2025-04-07,Bengaluru,South,Hot & Crispy Chicken,Chicken,3,179,5.0,537,26.85,510.15,315.63,194.52,Debit Card,App,Returning
+KFC100771,2025-04-08,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,182.0,117.0,Cash,Website,Returning
+KFC101168,2025-04-09,Delhi,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,165.15,103.95,Credit Card,Website,New
+KFC100238,2025-04-09,Pune,West,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,344.23,254.77,,App,Returning
+KFC100640,2025-04-09,Hyderabad,South,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,34.82,27.28,Credit Card,Food Delivery,Returning
+KFC100370,2025-04-10,Lucknow,North,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,326.22,182.93,Wallet,Food Delivery,Returning
+KFC100670,2025-04-10,Pune,West,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,65.2,63.8,Credit Card,In-Store,Returning
+KFC100642,2025-04-10,Hyderabad,South,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,373.57,224.43,Debit Card,App,New
+KFC100189,2025-04-10,Lucknow,North,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,779.56,418.44,Credit Card,In-Store,Returning
+KFC100368,2025-04-11,Pune,West,French Fries,Sides,1,99,10.0,99,9.9,89.1,62.36,26.74,Cash,In-Store,Returning
+KFC100020,2025-04-11,Chandigarh,North,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,39.54,22.56,UPI,In-Store,New
+KFC100138,2025-04-11,Chandigarh,North,Mighty Zinger Burger,Burgers,3,299,0.0,897,0.0,897.0,450.9,446.1,Cash,Food Delivery,Returning
+KFC100410,2025-04-12,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,104.23,56.87,UPI,App,Returning
+KFC100204,2025-04-12,Pune,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,155.16,93.84,Cash,Website,Returning
+KFC100224,2025-04-12,Bengaluru,South,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,38.87,30.13,UPI,Food Delivery,Returning
+KFC100777,2025-04-13,Bengaluru,South,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,373.2,225.8,UPI,App,Returning
+KFC100790,2025-04-13,Mumbai,West,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,36.83,21.82,Cash,App,New
+KFC100794,2025-04-13,Bengaluru,South,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,172.02,185.98,UPI,Website,New
+KFC100886,2025-04-13,Pune,West,Zinger Combo,Combos,4,349,10.0,1396,139.6,1256.4,799.25,457.15,Cash,Food Delivery,New
+KFC100405,2025-04-13,Chandigarh,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,68.71,30.29,Wallet,App,Returning
+KFC100001,2025-04-13,Chandigarh,North,Rice Bowl,Meals,3,199,10.0,597,59.7,537.3,328.67,208.63,Credit Card,Food Delivery,New
+KFC100239,2025-04-13,Hyderabad,South,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,177.03,121.97,UPI,App,Returning
+KFC100078,2025-04-13,Hyderabad,South,Rice Bowl,Meals,2,199,10.0,398,39.8,358.2,235.38,122.82,Cash,Website,Returning
+KFC100474,2025-04-14,Kolkata,East,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,295.09,140.01,Wallet,Website,New
+KFC100110,2025-04-14,Pune,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,37.01,31.99,Cash,Food Delivery,Returning
+KFC101200,2025-04-15,Lucknow,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,41.38,24.17,,Website,Returning
+KFC100874,2025-04-15,Lucknow,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,95.77,90.38,Credit Card,Food Delivery,Returning
+KFC100894,2025-04-15,Lucknow,North,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,168.34,115.71,Cash,Website,New
+KFC100943,2025-04-15,Hyderabad,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,57.31,41.69,Credit Card,Food Delivery,Returning
+KFC100517,2025-04-15,Chandigarh,North,Chocolate Lava Cake,Desserts,3,129,0.0,387,0.0,387.0,246.72,140.28,Cash,Food Delivery,Returning
+KFC101094,2025-04-15,Pune,West,Chicken Popcorn,Chicken,2,299,15.0,598,89.7,508.3,296.66,211.64,Debit Card,Website,Returning
+KFC100179,2025-04-16,Kolkata,East,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,353.72,185.38,Cash,App,Returning
+KFC100111,2025-04-16,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,96.71,55.44,UPI,In-Store,Returning
+KFC100498,2025-04-16,Pune,West,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,231.48,100.07,Wallet,App,Returning
+KFC100497,2025-04-16,Delhi,North,Rice Bowl,Meals,1,199,20.0,199,39.8,159.2,90.28,68.92,Wallet,In-Store,Returning
+KFC101029,2025-04-16,Pune,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,62.64,36.36,Cash,In-Store,New
+KFC100278,2025-04-16,,East,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,193.47,105.53,UPI,App,New
+KFC100043,2025-04-16,Hyderabad,South,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,207.3,91.7,Debit Card,App,Returning
+KFC101091,2025-04-17,Bengaluru,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,143.78,67.87,Credit Card,App,Returning
+KFC100512,2025-04-17,Delhi,North,French Fries,Sides,1,99,15.0,99,14.85,84.15,53.27,30.88,Credit Card,Website,New
+KFC100330,2025-04-17,Hyderabad,South,French Fries,Sides,2,99,0.0,198,0.0,198.0,111.91,86.09,Credit Card,In-Store,Returning
+KFC100761,2025-04-18,Pune,West,French Fries,Sides,1,99,,99,4.95,94.05,50.66,43.39,UPI,In-Store,New
+KFC100447,2025-04-19,Lucknow,North,Rice Bowl,Meals,2,199,0.0,398,0.0,398.0,225.43,172.57,Debit Card,Food Delivery,New
+KFC100339,2025-04-19,Pune,West,Zinger Burger,Burgers,1,219,20.0,219,43.8,175.2,99.11,76.09,Cash,App,New
+KFC100891,2025-04-19,Hyderabad,South,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,162.16,106.94,Wallet,Food Delivery,Returning
+KFC100090,2025-04-19,Pune,West,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,128.83,68.27,Credit Card,Food Delivery,Returning
+KFC100949,2025-04-19,Lucknow,North,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,174.2,74.8,Debit Card,App,Returning
+KFC101045,2025-04-19,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,57.8,58.3,Wallet,App,Returning
+KFC100493,2025-04-20,Lucknow,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,50.91,48.09,Wallet,Website,New
+KFC100572,2025-04-20,Pune,West,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,158.79,110.31,Wallet,Website,New
+KFC100480,2025-04-20,Delhi,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,79.44,36.66,Credit Card,Food Delivery,Returning
+KFC101099,2025-04-20,Hyderabad,South,Chocolate Lava Cake,Desserts,3,129,15.0,387,58.05,328.95,196.65,132.3,Wallet,Website,Returning
+KFC100593,2025-04-20,Lucknow,North,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,170.78,83.37,UPI,Food Delivery,New
+KFC100374,2025-04-21,Delhi,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,195.09,136.46,UPI,In-Store,Returning
+KFC100581,2025-04-21,Chandigarh,North,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,140.27,113.88,UPI,App,Returning
+KFC101146,2025-04-22,Pune,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,139.91,96.64,Debit Card,Website,Returning
+KFC100029,2025-04-22,Lucknow,North,Zinger Burger,Burgers,2,219,10.0,438,43.8,394.2,239.58,154.62,UPI,Food Delivery,Returning
+KFC101136,2025-04-23,Pune,West,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,69.83,54.37,Wallet,Website,New
+KFC100256,2025-04-23,Kolkata,East,Hot & Crispy Chicken,Chicken,2,179,10.0,358,35.8,322.2,189.82,132.38,Wallet,Food Delivery,Returning
+KFC100521,2025-04-23,Bengaluru,South,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,75.84,41.46,Debit Card,In-Store,Returning
+KFC100481,2025-04-23,Pune,West,Chocolate Lava Cake,Desserts,4,129,20.0,516,103.2,412.8,257.13,155.67,Credit Card,In-Store,Returning
+KFC101047,2025-04-23,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,158.98,110.12,Cash,App,Returning
+KFC100815,2025-04-24,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,87.15,73.95,,Food Delivery,New
+KFC100893,2025-04-24,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,186.1,97.95,Cash,In-Store,New
+KFC101050,2025-04-25,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,79.33,81.77,Credit Card,App,Returning
+KFC100128,2025-04-25,Bengaluru,South,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,236.42,175.78,UPI,Website,Returning
+KFC100976,2025-04-26,Hyderabad,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,118.77,92.88,Wallet,Food Delivery,New
+KFC100460,2025-04-26,Chandigarh,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,209.36,104.74,UPI,App,New
+KFC100035,2025-04-26,Pune,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,126.77,56.43,Wallet,App,New
+KFC100270,2025-04-26,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,84.94,85.11,UPI,Food Delivery,Returning
+KFC100549,2025-04-26,Kolkata,East,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,43.16,25.84,Credit Card,Website,New
+KFC100269,2025-04-27,Kolkata,East,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,187.3,81.8,Cash,In-Store,Returning
+KFC100589,2025-04-27,Chandigarh,North,French Fries,Sides,2,99,10.0,198,19.8,178.2,99.6,78.6,Wallet,Website,Returning
+KFC100187,2025-04-27,Mumbai,West,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,237.63,174.57,Credit Card,In-Store,Returning
+KFC100066,2025-04-27,Hyderabad,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,59.03,39.97,Credit Card,In-Store,Returning
+KFC100590,2025-04-28,Pune,West,French Fries,Sides,2,99,10.0,198,19.8,178.2,98.53,79.67,Cash,Food Delivery,Returning
+KFC100200,2025-04-29,Pune,West,Zinger Combo,Combos,3,349,0.0,1047,0.0,1047.0,654.96,392.04,Credit Card,Food Delivery,Returning
+KFC100126,2025-04-29,Chandigarh,North,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,118.5,93.15,Cash,In-Store,Returning
+KFC101025,2025-04-29,Hyderabad,South,French Fries,Sides,1,99,5.0,99,4.95,94.05,62.31,31.74,UPI,App,New
+KFC100473,2025-04-30,Pune,West,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,420.62,277.38,Credit Card,In-Store,New
+KFC100028,2025-04-30,Bengaluru,South,Chicken Popcorn,Chicken,2,299,15.0,598,89.7,508.3,343.18,165.12,UPI,In-Store,Returning
+KFC100366,2025-04-30,Hyderabad,South,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,40.59,24.96,Credit Card,Food Delivery,New
+KFC100308,2025-04-30,Bengaluru,South,French Fries,Sides,1,99,5.0,99,4.95,94.05,58.28,35.77,Wallet,App,New
+KFC100227,2025-05-01,Kolkata,East,Chicken Biryani,Meals,4,229,15.0,916,137.4,778.6,466.22,312.38,Wallet,In-Store,Returning
+KFC100882,2025-05-01,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,153.38,95.62,Wallet,App,New
+KFC101027,2025-05-02,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,115.87,63.13,UPI,App,Returning
+KFC100183,2025-05-02,Chandigarh,North,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,234.46,114.54,Debit Card,Food Delivery,Returning
+KFC101048,2025-05-02,Chandigarh,North,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,182.06,175.94,Credit Card,App,Returning
+KFC100537,2025-05-02,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,170.76,113.29,Cash,In-Store,New
+KFC101175,2025-05-03,Chandigarh,North,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,120.15,128.85,Credit Card,In-Store,New
+KFC100461,2025-05-03,Pune,West,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,795.96,342.14,Credit Card,App,Returning
+KFC100440,2025-05-03,Lucknow,North,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,765.05,373.05,Cash,Website,Returning
+KFC100608,2025-05-03,Lucknow,North,Chicken Strips,Chicken,2,249,5.0,498,24.9,473.1,265.99,207.11,Debit Card,Food Delivery,Returning
+KFC100255,2025-05-04,Mumbai,West,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,125.1,92.45,Credit Card,App,New
+KFC101186,2025-05-05,Kolkata,East,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,79.12,36.98,UPI,App,Returning
+KFC100547,2025-05-05,Delhi,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,296.18,302.82,Wallet,Food Delivery,Returning
+KFC100337,2025-05-05,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,67.27,55.28,Wallet,Website,New
+KFC100789,2025-05-05,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,45.46,23.54,Credit Card,Website,Returning
+KFC100813,2025-05-06,Kolkata,East,Zinger Combo,Combos,1,349,20.0,349,69.8,279.2,163.16,116.04,Wallet,Website,Returning
+KFC100081,2025-05-06,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,89.64,71.46,Debit Card,Food Delivery,New
+KFC100334,2025-05-06,Pune,West,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,136.76,147.29,Debit Card,App,New
+KFC100946,2025-05-07,Lucknow,North,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,289.02,308.98,Credit Card,Website,New
+KFC100909,2025-05-08,Lucknow,North,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,229.0,229.0,Wallet,Food Delivery,Returning
+KFC101145,2025-05-08,Lucknow,North,Zinger Burger,Burgers,3,219,5.0,657,32.85,624.15,419.73,204.42,Cash,Food Delivery,Returning
+KFC100496,2025-05-08,Kolkata,East,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,363.44,234.56,Debit Card,In-Store,New
+KFC100031,2025-05-08,Lucknow,North,Chicken Strips,Chicken,2,249,10.0,498,49.8,448.2,298.87,149.33,UPI,In-Store,New
+KFC100115,2025-05-08,Mumbai,West,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,226.14,105.41,Debit Card,Food Delivery,Returning
+KFC100926,2025-05-08,Pune,West,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,109.26,87.84,Wallet,App,Returning
+KFC100205,2025-05-09,Mumbai,West,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,763.85,374.25,UPI,App,New
+KFC100656,2025-05-10,,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,35.17,30.38,Cash,App,Returning
+KFC101072,2025-05-11,Mumbai,West,Pepsi,Beverages,2,69,20.0,138,27.6,110.4,54.78,55.62,Debit Card,Food Delivery,Returning
+KFC100979,2025-05-11,Hyderabad,South,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,157.22,141.78,UPI,Website,New
+KFC100013,2025-05-11,Bengaluru,South,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,230.02,101.53,UPI,App,Returning
+KFC101020,2025-05-11,Pune,West,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,243.81,114.19,Debit Card,App,Returning
+KFC100265,2025-05-12,Kolkata,East,Rice Bowl,Meals,2,199,20.0,398,79.6,318.4,178.63,139.77,Cash,Website,Returning
+KFC100701,2025-05-12,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,104.71,65.34,Credit Card,App,New
+KFC100462,2025-05-12,Kolkata,East,Chicken Popcorn,Chicken,2,299,10.0,598,59.8,538.2,342.0,196.2,Debit Card,In-Store,Returning
+KFC100315,2025-05-12,Pune,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,130.79,75.31,Cash,In-Store,New
+KFC101137,2025-05-12,Lucknow,North,Chocolate Lava Cake,Desserts,2,129,5.0,258,12.9,245.1,130.68,114.42,Debit Card,In-Store,New
+KFC100898,2025-05-13,Lucknow,North,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,42.5,26.5,UPI,Website,New
+KFC100208,2025-05-13,Kolkata,East,Chicken Bucket,Buckets,2,599,15.0,1198,179.7,1018.3,513.18,505.12,Credit Card,In-Store,Returning
+KFC100016,2025-05-14,Bengaluru,South,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,72.13,37.52,Cash,In-Store,New
+KFC100690,2025-05-14,Lucknow,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,182.85,131.25,Cash,In-Store,Returning
+KFC100338,2025-05-14,Pune,West,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,38.3,27.25,Cash,Website,Returning
+KFC100627,2025-05-14,Chandigarh,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,105.43,113.57,Debit Card,App,New
+KFC100759,2025-05-14,Mumbai,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,121.95,107.05,Debit Card,App,Returning
+KFC101188,2025-05-14,Pune,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,121.7,114.85,Credit Card,Website,New
+KFC100167,2025-05-14,Chandigarh,North,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,289.95,308.05,Debit Card,Food Delivery,Returning
+KFC101155,2025-05-15,Delhi,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,116.0,103.0,Debit Card,Food Delivery,Returning
+KFC100604,2025-05-15,Chandigarh,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,304.27,294.73,Debit Card,Website,Returning
+KFC100464,2025-05-16,Mumbai,West,Mighty Zinger Burger,Burgers,2,299,5.0,598,29.9,568.1,280.99,287.11,UPI,Website,Returning
+KFC100155,2025-05-17,Bengaluru,South,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,609.17,588.83,Debit Card,App,Returning
+KFC100392,2025-05-17,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,68.47,47.63,Wallet,Website,Returning
+KFC100625,2025-05-17,Hyderabad,South,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,66.75,57.45,Wallet,App,Returning
+KFC100519,2025-05-17,Delhi,North,Chicken Biryani,Meals,3,229,0.0,687,0.0,687.0,386.06,300.94,Cash,Food Delivery,New
+KFC100018,2025-05-17,Chandigarh,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,48.55,45.5,Wallet,App,New
+KFC100251,2025-05-18,Pune,West,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,29.04,29.61,Cash,App,New
+KFC100080,2025-05-18,Kolkata,East,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,175.08,79.07,UPI,Website,Returning
+KFC100409,2025-05-19,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,40.98,28.02,Credit Card,Website,New
+KFC100857,2025-05-19,Bengaluru,South,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,33.03,32.52,Wallet,Website,New
+KFC101021,2025-05-19,Mumbai,West,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,135.14,72.91,Cash,Website,Returning
+KFC100341,2025-05-19,Delhi,North,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,33.02,29.08,Cash,Food Delivery,New
+KFC100672,2025-05-20,Lucknow,North,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,109.11,89.89,UPI,In-Store,Returning
+KFC100420,2025-05-20,Delhi,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,108.63,99.42,UPI,Website,New
+KFC100522,2025-05-20,Mumbai,West,Mighty Zinger Burger,Burgers,2,299,15.0,598,89.7,508.3,283.88,224.42,Cash,Food Delivery,New
+KFC100981,2025-05-21,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,105.15,47.0,Wallet,Food Delivery,New
+KFC100890,2025-05-21,Pune,West,Chicken Strips,Chicken,2,249,20.0,498,99.6,398.4,269.22,129.18,Cash,Food Delivery,New
+KFC100538,2025-05-21,Hyderabad,South,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,122.22,96.78,Credit Card,In-Store,Returning
+KFC100970,2025-05-21,Hyderabad,South,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,82.17,78.93,Debit Card,Food Delivery,New
+KFC101051,2025-05-21,Mumbai,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,125.47,80.63,Credit Card,Food Delivery,New
+KFC100823,2025-05-21,Bengaluru,South,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,166.38,165.17,Wallet,App,New
+KFC101030,2025-05-21,Pune,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,41.12,27.88,Debit Card,Food Delivery,New
+KFC100908,2025-05-21,Delhi,North,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,71.24,38.41,Debit Card,Website,Returning
+KFC101178,2025-05-22,Delhi,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,144.64,124.46,UPI,In-Store,New
+KFC101042,2025-05-22,Bengaluru,South,Zinger Combo,Combos,4,349,15.0,1396,209.4,1186.6,729.06,457.54,Cash,In-Store,Returning
+KFC100318,2025-05-22,Mumbai,West,Mighty Zinger Burger,Burgers,3,299,5.0,897,44.85,852.15,499.4,352.75,Debit Card,In-Store,New
+KFC100309,2025-05-22,Kolkata,East,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,106.92,90.18,Debit Card,App,New
+KFC100828,2025-05-23,Kolkata,East,Chicken Popcorn,Chicken,2,299,10.0,598,59.8,538.2,283.45,254.75,Cash,Food Delivery,New
+KFC101189,2025-05-23,Bengaluru,South,French Fries,Sides,2,99,10.0,198,19.8,178.2,110.44,67.76,Wallet,Food Delivery,Returning
+KFC100697,2025-05-23,Bengaluru,South,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,148.95,87.6,Debit Card,Website,Returning
+KFC100820,2025-05-24,Delhi,North,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,122.96,76.04,Wallet,Food Delivery,Returning
+KFC101095,2025-05-24,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,58.14,51.51,Credit Card,Food Delivery,Returning
+KFC100070,2025-05-25,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,152.59,131.46,UPI,App,Returning
+KFC100469,2025-05-26,Mumbai,West,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,137.48,70.57,UPI,In-Store,Returning
+KFC100364,2025-05-27,Lucknow,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,55.37,43.63,UPI,Food Delivery,Returning
+KFC100985,2025-05-27,Delhi,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,110.94,75.21,UPI,Website,Returning
+KFC100314,2025-05-27,Chandigarh,North,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,222.01,213.09,Credit Card,In-Store,Returning
+KFC100774,2025-05-27,Mumbai,West,Mighty Zinger Burger,Burgers,3,299,5.0,897,44.85,852.15,504.08,348.07,UPI,In-Store,New
+KFC100325,2025-05-27,Mumbai,West,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,318.62,190.53,Cash,In-Store,Returning
+KFC100427,2025-05-28,Pune,West,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,148.27,109.73,Cash,Food Delivery,Returning
+KFC100626,2025-05-28,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,143.65,105.35,Wallet,Website,Returning
+KFC100749,2025-05-28,Pune,West,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,149.18,119.92,UPI,App,New
+KFC100836,2025-05-28,Pune,West,Hot & Crispy Chicken,Chicken,2,179,10.0,358,35.8,322.2,212.65,109.55,Credit Card,App,Returning
+KFC101119,2025-05-28,Chandigarh,North,Pepsi,Beverages,2,69,5.0,138,6.9,131.1,87.21,43.89,Credit Card,App,Returning
+KFC100930,2025-05-29,Delhi,North,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,285.04,150.06,Cash,Food Delivery,Returning
+KFC100408,2025-05-29,Chandigarh,North,Zinger Combo,Combos,4,349,10.0,1396,139.6,1256.4,711.75,544.65,UPI,In-Store,New
+KFC100257,2025-05-29,Hyderabad,South,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,181.16,157.14,Cash,In-Store,New
+KFC100607,2025-05-30,Chandigarh,North,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,116.46,82.54,Wallet,Food Delivery,Returning
+KFC100845,2025-05-31,Kolkata,East,Hot & Crispy Chicken,Chicken,2,179,5.0,358,17.9,340.1,198.56,141.54,UPI,Food Delivery,Returning
+KFC100638,2025-05-31,Chandigarh,North,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,113.96,69.24,Wallet,Website,Returning
+KFC100718,2025-05-31,Pune,West,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,113.32,65.68,Wallet,App,Returning
+KFC100249,2025-06-01,Hyderabad,South,French Fries,Sides,2,99,0.0,198,0.0,198.0,98.14,99.86,UPI,App,Returning
+KFC100452,2025-06-01,Hyderabad,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,110.22,88.78,Debit Card,App,Returning
+KFC100683,2025-06-01,Mumbai,West,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,293.51,141.59,Credit Card,App,Returning
+KFC100760,2025-06-01,Bengaluru,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,66.39,32.61,Debit Card,Food Delivery,Returning
+KFC100913,2025-06-02,Delhi,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,197.0,134.55,UPI,Food Delivery,Returning
+KFC100629,2025-06-02,Chandigarh,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,140.9,67.15,Wallet,App,Returning
+KFC100958,2025-06-03,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,67.92,41.73,UPI,Food Delivery,Returning
+KFC100136,2025-06-03,Delhi,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,64.27,51.83,Credit Card,App,New
+KFC100287,2025-06-03,Hyderabad,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,190.84,93.21,Cash,Website,Returning
+KFC100686,2025-06-03,Pune,West,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,351.16,246.84,Credit Card,Website,Returning
+KFC100698,2025-06-03,Pune,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,135.21,113.79,Wallet,In-Store,New
+KFC101184,2025-06-04,Chandigarh,North,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,348.7,249.3,UPI,In-Store,New
+KFC100037,2025-06-04,Mumbai,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,93.58,89.62,Credit Card,Website,New
+KFC100299,2025-06-05,Bengaluru,South,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,353.93,309.17,Credit Card,Website,Returning
+KFC100740,2025-06-05,Kolkata,East,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,117.76,99.79,Wallet,In-Store,Returning
+KFC101112,2025-06-07,Bengaluru,South,Pepsi,Beverages,2,69,20.0,138,27.6,110.4,68.46,41.94,Debit Card,Food Delivery,New
+KFC100148,2025-06-07,Delhi,North,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,138.95,110.05,Credit Card,In-Store,Returning
+KFC100993,2025-06-07,Delhi,North,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,33.52,25.13,Wallet,Food Delivery,New
+KFC100295,2025-06-07,Lucknow,North,Rice Bowl,Meals,4,199,5.0,796,39.8,756.2,383.34,372.86,Wallet,Website,New
+KFC100268,2025-06-08,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,104.05,66.0,Cash,In-Store,New
+KFC101089,2025-06-08,Delhi,North,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,133.38,103.17,Cash,In-Store,Returning
+KFC100800,2025-06-08,Pune,West,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,127.8,61.25,Debit Card,App,Returning
+KFC100571,2025-06-08,Bengaluru,South,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,119.38,99.62,UPI,Website,Returning
+KFC100395,2025-06-09,Kolkata,East,French Fries,Sides,1,99,15.0,99,14.85,84.15,58.78,25.37,UPI,App,Returning
+KFC100243,2025-06-09,Mumbai,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,34.1,34.9,Cash,App,New
+KFC100161,2025-06-09,Bengaluru,South,Chicken Strips,Chicken,3,249,5.0,747,37.35,709.65,477.88,231.77,Debit Card,App,Returning
+KFC100236,2025-06-09,Pune,West,Mighty Zinger Burger,Burgers,3,299,15.0,897,134.55,762.45,412.57,349.88,Wallet,Food Delivery,Returning
+KFC100603,2025-06-10,Hyderabad,South,Chocolate Lava Cake,Desserts,4,129,0.0,516,0.0,516.0,340.13,175.87,Debit Card,Website,Returning
+KFC100917,2025-06-10,Pune,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,188.76,125.34,Cash,App,New
+KFC100795,2025-06-10,Bengaluru,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,133.99,65.01,Wallet,In-Store,Returning
+KFC101043,2025-06-10,Delhi,North,Zinger Combo,Combos,2,349,15.0,698,104.7,593.3,375.91,217.39,Wallet,App,New
+KFC100451,2025-06-11,Bengaluru,South,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,32.98,32.57,UPI,Website,Returning
+KFC100766,2025-06-11,Kolkata,East,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,143.73,88.47,Debit Card,In-Store,New
+KFC100415,2025-06-11,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,71.46,44.64,Wallet,Food Delivery,New
+KFC100569,2025-06-11,Delhi,North,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,447.78,250.22,Credit Card,App,Returning
+KFC100812,2025-06-11,Mumbai,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,156.07,68.03,Wallet,Website,New
+KFC100356,2025-06-11,Bengaluru,South,Chicken Popcorn,Chicken,2,299,10.0,598,59.8,538.2,271.71,266.49,Credit Card,In-Store,Returning
+KFC100121,2025-06-11,Pune,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,111.27,94.83,Cash,App,New
+KFC101085,2025-06-12,Mumbai,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,138.66,85.44,Wallet,App,Returning
+KFC100896,2025-06-12,Hyderabad,South,Chicken Bucket,Buckets,1,599,20.0,599,119.8,479.2,279.07,200.13,Credit Card,Website,Returning
+KFC100796,2025-06-13,Hyderabad,South,French Fries,Sides,1,99,20.0,99,19.8,79.2,45.91,33.29,Cash,App,New
+KFC100253,2025-06-13,Mumbai,West,French Fries,Sides,1,99,15.0,99,14.85,84.15,46.36,37.79,Cash,Food Delivery,Returning
+KFC100431,2025-06-13,Delhi,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,144.15,124.95,Debit Card,App,New
+KFC100965,2025-06-14,Chandigarh,North,Zinger Burger,Burgers,2,219,15.0,438,65.7,372.3,218.27,154.03,Debit Card,In-Store,New
+KFC100834,2025-06-14,Mumbai,West,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,122.58,74.52,Debit Card,In-Store,Returning
+KFC100432,2025-06-15,Pune,West,French Fries,Sides,1,99,10.0,99,9.9,89.1,46.98,42.12,UPI,Website,New
+KFC101093,2025-06-15,Lucknow,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,49.41,44.64,Wallet,Food Delivery,Returning
+KFC100821,2025-06-15,Delhi,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,122.15,64.0,Credit Card,In-Store,Returning
+KFC100704,2025-06-16,Mumbai,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,174.75,139.35,Cash,In-Store,Returning
+KFC100937,2025-06-16,Delhi,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,50.36,48.64,UPI,Website,New
+KFC100729,2025-06-17,Delhi,North,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,263.32,275.78,Debit Card,Food Delivery,Returning
+KFC100288,2025-06-17,Lucknow,North,Chicken Biryani,Meals,2,229,15.0,458,68.7,389.3,261.43,127.87,Credit Card,In-Store,Returning
+KFC100944,2025-06-18,Delhi,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,118.86,100.14,Wallet,Website,Returning
+KFC100576,2025-06-18,Kolkata,East,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,131.13,67.87,Cash,Website,New
+KFC100203,2025-06-18,Mumbai,West,Mighty Zinger Burger,Burgers,4,299,0.0,1196,0.0,1196.0,831.19,364.81,UPI,In-Store,Returning
+KFC100030,2025-06-18,Lucknow,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,329.28,239.77,Cash,App,New
+KFC100842,2025-06-18,Hyderabad,South,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,286.72,252.38,Credit Card,In-Store,Returning
+KFC100038,2025-06-19,Delhi,North,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,123.99,82.11,Credit Card,Food Delivery,New
+KFC100726,2025-06-19,Pune,West,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,109.4,60.65,Cash,In-Store,New
+KFC101172,2025-06-19,Pune,West,Chocolate Lava Cake,Desserts,2,129,20.0,258,51.6,206.4,121.73,84.67,Wallet,App,Returning
+KFC100393,2025-06-19,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,124.57,129.58,Cash,In-Store,Returning
+KFC100376,2025-06-19,Lucknow,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,112.91,73.24,Debit Card,Food Delivery,Returning
+KFC100467,2025-06-19,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,82.87,78.23,Wallet,App,Returning
+KFC101082,2025-06-19,Chandigarh,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,56.78,42.22,Wallet,Website,New
+KFC100613,2025-06-20,Kolkata,East,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,38.56,30.44,Wallet,Food Delivery,New
+KFC101040,2025-06-20,Hyderabad,South,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,186.33,112.67,Wallet,Website,Returning
+KFC100859,2025-06-20,Kolkata,East,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,93.96,85.14,Debit Card,In-Store,Returning
+KFC100742,2025-06-21,Hyderabad,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,49.14,49.86,Wallet,Website,New
+KFC100214,2025-06-21,Chandigarh,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,151.02,77.98,Wallet,Website,New
+KFC101055,2025-06-22,Delhi,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,113.45,104.1,Cash,Website,Returning
+KFC100064,2025-06-22,Bengaluru,South,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,108.81,80.24,Wallet,Website,Returning
+KFC100542,2025-06-22,Pune,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,148.22,75.88,Wallet,Website,Returning
+KFC100132,2025-06-22,Bengaluru,South,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,196.72,117.38,UPI,Website,Returning
+KFC101049,2025-06-22,Lucknow,North,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,197.01,99.64,Credit Card,Food Delivery,Returning
+KFC100573,2025-06-22,Lucknow,North,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,799.49,398.51,Cash,Website,Returning
+KFC100470,2025-06-22,Hyderabad,South,French Fries,Sides,1,99,10.0,99,9.9,89.1,47.18,41.92,Cash,App,Returning
+KFC100617,2025-06-24,Hyderabad,South,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,272.09,267.01,Cash,Food Delivery,Returning
+KFC100166,2025-06-24,Mumbai,West,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,207.01,89.64,Wallet,In-Store,Returning
+KFC100157,2025-06-25,Pune,West,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,84.76,37.79,Wallet,In-Store,New
+KFC101032,2025-06-25,Delhi,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,57.77,58.33,Cash,App,New
+KFC100895,2025-06-25,Chandigarh,North,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,163.98,135.02,Cash,In-Store,Returning
+KFC100883,2025-06-26,Mumbai,West,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,137.09,80.46,UPI,App,Returning
+KFC100711,2025-06-26,Pune,West,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,260.57,197.43,Debit Card,Website,Returning
+KFC100425,2025-06-26,Pune,West,French Fries,Sides,1,99,10.0,99,9.9,89.1,46.78,42.32,Cash,Food Delivery,New
+KFC100153,2025-06-27,Delhi,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,106.66,72.44,Credit Card,Website,Returning
+KFC100841,2025-06-27,Lucknow,North,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,292.39,165.61,Wallet,In-Store,Returning
+KFC100198,2025-06-27,Pune,West,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,675.38,462.72,Cash,Website,New
+KFC101068,2025-06-27,Hyderabad,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,131.24,76.81,Wallet,Food Delivery,New
+KFC100051,2025-06-28,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,76.17,46.38,Debit Card,App,Returning
+KFC100014,2025-06-28,Bengaluru,South,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,91.8,97.25,UPI,In-Store,Returning
+KFC100489,2025-06-28,Pune,West,Chocolate Lava Cake,Desserts,2,129,15.0,258,38.7,219.3,111.31,107.99,Cash,App,Returning
+KFC100957,2025-06-28,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,107.43,62.62,UPI,Website,New
+KFC100905,2025-06-29,Lucknow,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,175.84,123.16,Debit Card,Food Delivery,New
+KFC101148,2025-06-29,Delhi,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,182.29,116.71,Wallet,Food Delivery,Returning
+KFC100049,2025-06-29,Hyderabad,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,142.88,68.77,Credit Card,Website,Returning
+KFC100764,2025-06-30,Pune,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,97.01,86.19,Wallet,In-Store,Returning
+KFC100531,2025-07-01,Pune,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,139.02,89.98,Credit Card,App,Returning
+KFC101180,2025-07-01,Lucknow,North,Zinger Burger,Burgers,1,219,20.0,219,43.8,175.2,118.84,56.36,Debit Card,App,New
+KFC100665,2025-07-01,Lucknow,North,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,487.35,210.65,UPI,App,New
+KFC100851,2025-07-01,Hyderabad,South,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,266.59,242.56,Credit Card,Food Delivery,New
+KFC101141,2025-07-02,Delhi,North,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,229.39,228.61,UPI,Food Delivery,New
+KFC100639,2025-07-02,Hyderabad,South,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,137.52,111.48,UPI,App,Returning
+KFC101067,2025-07-02,Kolkata,East,Chocolate Lava Cake,Desserts,2,129,20.0,258,51.6,206.4,101.17,105.23,Wallet,App,Returning
+KFC100321,2025-07-02,Delhi,North,Zinger Burger,Burgers,2,219,5.0,438,21.9,416.1,280.27,135.83,UPI,Food Delivery,Returning
+KFC101061,2025-07-02,Pune,West,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,223.94,125.06,Debit Card,Website,Returning
+KFC101057,2025-07-03,Kolkata,East,French Fries,Sides,2,99,0.0,198,0.0,198.0,136.48,61.52,UPI,Website,New
+KFC100809,2025-07-04,Kolkata,East,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,142.78,76.22,Wallet,Website,New
+KFC100158,2025-07-05,Mumbai,West,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,126.98,81.07,Debit Card,In-Store,Returning
+KFC100822,2025-07-05,Lucknow,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,52.26,46.74,Credit Card,Food Delivery,Returning
+KFC100502,2025-07-06,Chandigarh,North,Zinger Combo,Combos,3,349,15.0,1047,157.05,889.95,572.37,317.58,Cash,App,New
+KFC100551,2025-07-06,Kolkata,East,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,274.36,294.69,Credit Card,In-Store,New
+KFC100649,2025-07-06,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,82.36,46.64,UPI,Food Delivery,Returning
+KFC100694,2025-07-06,Delhi,North,Rice Bowl,Meals,2,199,10.0,398,39.8,358.2,184.0,174.2,Debit Card,Food Delivery,Returning
+KFC100057,2025-07-06,Delhi,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,102.46,83.69,Debit Card,App,New
+KFC100276,2025-07-07,Chandigarh,North,French Fries,Sides,2,99,0.0,198,0.0,198.0,121.62,76.38,UPI,Food Delivery,Returning
+KFC100355,2025-07-07,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,102.17,67.88,Wallet,App,Returning
+KFC100582,2025-07-07,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,90.25,70.85,Debit Card,App,Returning
+KFC100182,2025-07-07,Mumbai,West,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,324.23,338.87,Credit Card,Website,New
+KFC100719,2025-07-08,Bengaluru,South,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,301.98,136.02,Cash,In-Store,Returning
+KFC101081,2025-07-08,Bengaluru,South,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,106.69,99.41,Credit Card,Website,Returning
+KFC100817,2025-07-09,Bengaluru,South,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,139.47,89.53,Debit Card,In-Store,New
+KFC100319,2025-07-09,Delhi,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,110.31,118.69,Debit Card,In-Store,New
+KFC100553,2025-07-10,Bengaluru,South,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,40.07,22.03,Cash,In-Store,Returning
+KFC101046,2025-07-10,Pune,West,Chicken Biryani,Meals,3,229,15.0,687,103.05,583.95,400.2,183.75,Wallet,App,New
+KFC100160,2025-07-10,Pune,West,French Fries,Sides,2,99,10.0,198,19.8,178.2,112.2,66.0,Debit Card,Website,New
+KFC100858,2025-07-10,Kolkata,East,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,370.99,168.11,Cash,In-Store,New
+KFC100354,2025-07-10,Lucknow,North,Mighty Zinger Burger,Burgers,2,299,15.0,598,89.7,508.3,322.27,186.03,UPI,Website,New
+KFC100678,2025-07-10,Pune,West,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,93.67,85.33,Credit Card,Food Delivery,Returning
+KFC101170,2025-07-11,Delhi,North,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,197.31,86.74,Wallet,App,Returning
+KFC100465,2025-07-11,Lucknow,North,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,124.9,74.1,Cash,App,Returning
+KFC100674,2025-07-11,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,155.3,143.7,Debit Card,App,Returning
+KFC100825,2025-07-11,Bengaluru,South,Zinger Combo,Combos,1,349,20.0,349,69.8,279.2,174.95,104.25,UPI,Food Delivery,New
+KFC100663,2025-07-12,Hyderabad,South,Chicken Popcorn,Chicken,1,299,20.0,299,59.8,239.2,154.52,84.68,Cash,Website,Returning
+KFC100932,2025-07-13,Pune,West,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,127.11,61.94,UPI,App,Returning
+KFC101115,2025-07-13,Kolkata,East,French Fries,Sides,1,99,0.0,99,0.0,99.0,54.38,44.62,Credit Card,Food Delivery,New
+KFC100959,2025-07-13,Delhi,North,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,34.11,27.99,UPI,In-Store,New
+KFC100095,2025-07-13,Delhi,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,207.49,106.61,Debit Card,In-Store,Returning
+KFC100566,2025-07-14,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,20.0,299,59.8,239.2,150.28,88.92,Cash,Food Delivery,Returning
+KFC100610,2025-07-14,Pune,West,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,159.98,109.12,UPI,In-Store,New
+KFC100106,2025-07-15,Delhi,North,French Fries,Sides,2,99,10.0,198,19.8,178.2,91.15,87.05,Credit Card,Website,Returning
+KFC100399,2025-07-16,Kolkata,East,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,301.83,136.17,Debit Card,In-Store,Returning
+KFC101107,2025-07-16,Pune,West,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,170.49,87.51,Wallet,In-Store,New
+KFC100074,2025-07-16,Bengaluru,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,49.16,49.84,Wallet,Website,Returning
+KFC100273,2025-07-17,Bengaluru,South,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,397.12,201.88,UPI,Food Delivery,New
+KFC101014,2025-07-17,Pune,West,Chicken Strips,Chicken,2,249,5.0,498,24.9,473.1,312.12,160.98,Wallet,Website,Returning
+KFC100365,2025-07-17,Chandigarh,North,Hot & Crispy Chicken,Chicken,2,179,15.0,358,53.7,304.3,174.34,129.96,Cash,Food Delivery,New
+KFC100535,2025-07-17,Delhi,North,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,92.8,76.35,Debit Card,In-Store,Returning
+KFC100104,2025-07-17,Mumbai,West,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,104.42,64.73,Debit Card,Food Delivery,Returning
+KFC100878,2025-07-18,Mumbai,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,56.0,43.0,Wallet,Website,Returning
+KFC100565,2025-07-18,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,75.67,40.43,Credit Card,Website,Returning
+KFC100865,2025-07-18,Mumbai,West,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,217.23,220.77,Wallet,Website,Returning
+KFC100503,2025-07-19,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,137.97,116.18,UPI,Website,Returning
+KFC100752,2025-07-19,Kolkata,East,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,171.68,97.42,Debit Card,Food Delivery,Returning
+KFC100688,2025-07-19,Hyderabad,South,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,273.39,138.81,Cash,In-Store,Returning
+KFC101118,2025-07-19,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,112.58,66.42,Credit Card,Website,Returning
+KFC100647,2025-07-19,Bengaluru,South,Zinger Combo,Combos,2,349,20.0,698,139.6,558.4,341.48,216.92,Cash,Food Delivery,Returning
+KFC100302,2025-07-20,Bengaluru,South,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,310.57,288.43,Cash,In-Store,Returning
+KFC100499,2025-07-20,Chandigarh,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,126.96,90.59,Cash,In-Store,Returning
+KFC100386,2025-07-21,Kolkata,East,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,123.0,88.65,Wallet,Food Delivery,New
+KFC100266,2025-07-21,Mumbai,West,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,179.81,104.24,Cash,In-Store,Returning
+KFC100022,2025-07-22,Chandigarh,North,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,136.79,87.31,Debit Card,App,Returning
+KFC100753,2025-07-23,Kolkata,East,Mighty Zinger Burger,Burgers,2,299,20.0,598,119.6,478.4,276.3,202.1,Credit Card,Food Delivery,New
+KFC100194,2025-07-23,Chandigarh,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,175.42,138.68,Wallet,App,Returning
+KFC100417,2025-07-23,Lucknow,North,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,178.46,118.19,Debit Card,Food Delivery,Returning
+KFC100892,2025-07-23,Delhi,North,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,210.6,201.6,Debit Card,In-Store,Returning
+KFC100746,2025-07-23,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,20.0,179,35.8,143.2,95.62,47.58,Cash,In-Store,New
+KFC101134,2025-07-23,Mumbai,West,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,153.37,104.63,Credit Card,Website,Returning
+KFC100866,2025-07-25,Bengaluru,South,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,68.79,48.51,Credit Card,In-Store,New
+KFC100407,2025-07-25,Mumbai,West,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,62.83,54.47,UPI,Website,New
+KFC100986,2025-07-26,Mumbai,West,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,126.65,59.5,Credit Card,Food Delivery,Returning
+KFC100456,2025-07-26,Delhi,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,116.92,69.23,Wallet,App,New
+KFC101108,2025-07-26,Delhi,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,201.83,129.72,Credit Card,Website,Returning
+KFC100471,2025-07-26,Chandigarh,North,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,167.93,90.07,Cash,In-Store,Returning
+KFC100989,2025-07-26,,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,117.54,101.46,Wallet,In-Store,New
+KFC100350,2025-07-27,Pune,West,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,79.39,36.71,Credit Card,In-Store,Returning
+KFC101059,2025-07-27,Delhi,North,French Fries,Sides,2,99,5.0,198,9.9,188.1,106.13,81.97,Credit Card,App,Returning
+KFC100675,2025-07-27,Hyderabad,South,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,701.59,436.51,Wallet,Website,Returning
+KFC100387,2025-07-28,Pune,West,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,186.4,110.25,Debit Card,App,Returning
+KFC100679,2025-07-28,Lucknow,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,143.86,73.69,Debit Card,Website,Returning
+KFC100484,2025-07-28,Hyderabad,South,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,133.05,85.95,Wallet,Website,New
+KFC100419,2025-07-29,Hyderabad,South,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,132.23,62.42,Cash,In-Store,New
+KFC100482,2025-07-29,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,73.03,43.07,Debit Card,App,Returning
+KFC100712,2025-07-29,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,87.44,73.66,Wallet,Website,Returning
+KFC100938,2025-07-30,Lucknow,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,88.94,90.16,Wallet,App,Returning
+KFC100747,2025-07-30,Bengaluru,South,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,89.49,89.51,Cash,Website,Returning
+KFC100630,2025-07-30,Mumbai,West,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,152.84,79.36,UPI,In-Store,New
+KFC100250,2025-07-30,Mumbai,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,127.06,56.14,Debit Card,In-Store,Returning
+KFC100901,2025-07-31,Kolkata,East,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,127.1,71.9,Credit Card,App,New
+KFC101177,2025-07-31,Chandigarh,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,105.48,112.07,Debit Card,App,New
+KFC100703,2025-07-31,Lucknow,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,383.46,215.54,Cash,App,Returning
+KFC100904,2025-08-01,Chandigarh,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,357.12,241.88,Debit Card,Food Delivery,Returning
+KFC100513,2025-08-01,Bengaluru,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,119.88,79.12,Wallet,In-Store,Returning
+KFC100622,2025-08-02,Lucknow,North,Mighty Zinger Burger,Burgers,2,299,20.0,598,119.6,478.4,230.8,247.6,Wallet,Website,Returning
+KFC101022,2025-08-02,Lucknow,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,228.36,103.19,Cash,App,Returning
+KFC100359,2025-08-02,Pune,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,147.26,89.29,UPI,Food Delivery,Returning
+KFC100856,2025-08-02,Bengaluru,South,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,301.01,297.99,Credit Card,Website,Returning
+KFC100545,2025-08-02,Hyderabad,South,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,89.58,71.52,Debit Card,Website,New
+KFC100466,2025-08-03,,North,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,146.26,137.79,Debit Card,App,Returning
+KFC100324,2025-08-03,Lucknow,North,Chicken Strips,Chicken,2,249,0.0,498,0.0,498.0,317.66,180.34,UPI,Food Delivery,Returning
+KFC100040,2025-08-03,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,142.22,141.83,Debit Card,App,New
+KFC100142,2025-08-03,Hyderabad,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,146.81,64.84,Wallet,Website,Returning
+KFC100787,2025-08-03,Pune,West,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,75.48,48.72,Wallet,App,Returning
+KFC100060,2025-08-03,Mumbai,West,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,37.83,27.72,Wallet,Food Delivery,Returning
+KFC100644,2025-08-03,Bengaluru,South,Rice Bowl,Meals,2,199,0.0,398,0.0,398.0,270.88,127.12,Wallet,Website,New
+KFC100952,2025-08-03,Chandigarh,North,Hot & Crispy Chicken,Chicken,3,179,15.0,537,80.55,456.45,290.37,166.08,Cash,Website,Returning
+KFC100313,2025-08-04,Pune,West,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,116.76,69.39,UPI,In-Store,Returning
+KFC100267,2025-08-04,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,105.65,64.4,Wallet,In-Store,New
+KFC100054,2025-08-05,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,108.43,52.67,Wallet,App,New
+KFC100797,2025-08-05,Bengaluru,South,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,117.17,111.83,Credit Card,Food Delivery,Returning
+KFC100009,2025-08-05,Lucknow,North,Chicken Strips,Chicken,2,249,5.0,498,24.9,473.1,288.16,184.94,Cash,In-Store,Returning
+KFC100596,2025-08-06,Pune,West,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,184.3,114.7,Cash,App,New
+KFC100380,2025-08-06,Pune,West,French Fries,Sides,1,99,5.0,99,4.95,94.05,60.61,33.44,Cash,Website,Returning
+KFC100995,2025-08-06,Hyderabad,South,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,357.3,240.7,UPI,In-Store,New
+KFC100669,2025-08-07,Chandigarh,North,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,226.8,211.2,Wallet,App,New
+KFC100579,2025-08-07,Hyderabad,South,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,203.43,128.12,UPI,In-Store,New
+KFC100880,2025-08-07,Bengaluru,South,Chocolate Lava Cake,Desserts,2,129,5.0,258,12.9,245.1,141.54,103.56,Cash,In-Store,Returning
+KFC100739,2025-08-07,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,165.89,88.26,Wallet,In-Store,Returning
+KFC100707,2025-08-08,Kolkata,East,French Fries,Sides,1,99,5.0,99,4.95,94.05,61.35,32.7,UPI,In-Store,Returning
+KFC100186,2025-08-08,Hyderabad,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,130.87,80.78,Cash,Website,Returning
+KFC100529,2025-08-08,Mumbai,West,Rice Bowl,Meals,2,199,10.0,398,39.8,358.2,216.17,142.03,Credit Card,Website,New
+KFC100094,2025-08-08,Pune,West,Chicken Biryani,Meals,4,229,0.0,916,0.0,916.0,519.86,396.14,Debit Card,In-Store,New
+KFC100881,2025-08-09,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,178.26,105.79,UPI,App,Returning
+KFC100723,2025-08-09,Mumbai,West,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,163.93,135.07,Debit Card,Website,New
+KFC100401,2025-08-09,Hyderabad,South,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,89.28,80.77,UPI,In-Store,New
+KFC100738,2025-08-09,Chandigarh,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,183.61,115.39,Debit Card,App,Returning
+KFC100077,2025-08-10,Bengaluru,South,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,178.41,118.24,Debit Card,App,Returning
+KFC100120,2025-08-10,Hyderabad,South,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,166.41,117.64,Debit Card,Food Delivery,New
+KFC100875,2025-08-10,Kolkata,East,Mighty Zinger Burger,Burgers,2,299,5.0,598,29.9,568.1,385.11,182.99,Credit Card,App,Returning
+KFC100974,2025-08-11,Kolkata,East,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,190.95,140.6,UPI,In-Store,Returning
+KFC101097,2025-08-11,Pune,West,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,96.43,72.72,Credit Card,App,Returning
+KFC100700,2025-08-11,Kolkata,East,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,84.96,84.19,Debit Card,App,Returning
+KFC100124,2025-08-11,Kolkata,East,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,272.8,162.3,Credit Card,Food Delivery,Returning
+KFC100162,2025-08-12,Chandigarh,North,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,289.45,249.65,Wallet,Website,New
+KFC100677,2025-08-12,Bengaluru,South,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,312.42,256.63,Credit Card,Food Delivery,Returning
+KFC100096,2025-08-13,Pune,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,162.93,121.12,Cash,App,Returning
+KFC100021,2025-08-13,Mumbai,West,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,118.55,100.45,UPI,Food Delivery,Returning
+KFC100721,2025-08-14,Chandigarh,North,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,151.12,145.53,Wallet,Food Delivery,Returning
+KFC100570,2025-08-14,Delhi,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,114.03,114.97,Cash,Food Delivery,Returning
+KFC100254,2025-08-14,Pune,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,206.86,107.24,Debit Card,Website,New
+KFC100385,2025-08-14,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,102.29,76.71,Wallet,Website,Returning
+KFC100824,2025-08-14,Bengaluru,South,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,126.23,62.82,Debit Card,Website,Returning
+KFC100767,2025-08-14,Pune,West,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,117.59,81.41,,In-Store,Returning
+KFC100156,2025-08-14,Delhi,North,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,37.64,21.01,Cash,Food Delivery,New
+KFC100843,2025-08-15,Hyderabad,South,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,325.62,273.38,Credit Card,Website,Returning
+KFC100067,2025-08-15,Lucknow,North,Chicken Strips,Chicken,1,249,20.0,249,49.8,199.2,98.85,100.35,Debit Card,In-Store,New
+KFC101149,2025-08-15,Bengaluru,South,Chicken Strips,Chicken,2,249,0.0,498,0.0,498.0,244.43,253.57,UPI,Website,Returning
+KFC100372,2025-08-15,Kolkata,East,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,105.74,88.91,Wallet,App,Returning
+KFC100660,2025-08-16,Bengaluru,South,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,123.44,108.76,Cash,Website,New
+KFC100378,2025-08-16,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,161.63,107.47,Debit Card,App,Returning
+KFC100983,2025-08-17,Bengaluru,South,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,346.06,251.94,Cash,App,Returning
+KFC100092,2025-08-17,Lucknow,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,45.69,19.86,UPI,App,New
+KFC100587,2025-08-18,Mumbai,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,168.2,145.9,UPI,Website,New
+KFC100375,2025-08-18,Pune,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,108.86,74.34,UPI,In-Store,Returning
+KFC100648,2025-08-18,Pune,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,183.62,130.48,Cash,Food Delivery,New
+KFC100486,2025-08-18,Lucknow,North,Mighty Zinger Burger,Burgers,3,299,15.0,897,134.55,762.45,464.02,298.43,Credit Card,In-Store,New
+KFC100935,2025-08-19,Lucknow,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,113.8,94.25,Cash,Food Delivery,New
+KFC100017,2025-08-19,Kolkata,East,Hot & Crispy Chicken,Chicken,2,179,5.0,358,17.9,340.1,172.38,167.72,UPI,App,New
+KFC100089,2025-08-19,Hyderabad,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,54.53,44.47,Credit Card,Website,New
+KFC100105,2025-08-19,Lucknow,North,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,34.54,24.11,Debit Card,In-Store,Returning
+KFC100735,2025-08-19,Mumbai,West,Chicken Bucket,Buckets,1,599,20.0,599,119.8,479.2,281.17,198.03,Wallet,Website,Returning
+KFC100575,2025-08-19,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,71.91,44.19,Cash,In-Store,Returning
+KFC100810,2025-08-19,Kolkata,East,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,361.9,207.15,Cash,Food Delivery,Returning
+KFC100275,2025-08-19,Lucknow,North,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,34.34,34.66,Credit Card,Food Delivery,Returning
+KFC101191,2025-08-20,Lucknow,North,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,293.05,144.95,Cash,Website,Returning
+KFC100221,2025-08-20,Kolkata,East,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,34.33,34.67,Wallet,App,Returning
+KFC100887,2025-08-21,Hyderabad,South,Rice Bowl,Meals,2,199,20.0,398,79.6,318.4,190.7,127.7,Credit Card,App,New
+KFC101053,2025-08-21,Delhi,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,60.39,38.61,Credit Card,App,New
+KFC100019,2025-08-21,Lucknow,North,Mighty Zinger Burger,Burgers,3,299,5.0,897,44.85,852.15,506.29,345.86,Cash,App,New
+KFC100708,2025-08-22,Bengaluru,South,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,33.03,25.62,Credit Card,App,New
+KFC101087,2025-08-22,Delhi,North,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,171.82,77.18,Debit Card,Food Delivery,Returning
+KFC101074,2025-08-23,Hyderabad,South,French Fries,Sides,1,99,10.0,99,9.9,89.1,61.12,27.98,Debit Card,App,Returning
+KFC101104,2025-08-23,Lucknow,North,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,255.96,179.14,Debit Card,Food Delivery,Returning
+KFC101096,2025-08-23,Kolkata,East,French Fries,Sides,1,99,0.0,99,0.0,99.0,65.74,33.26,Wallet,Website,Returning
+KFC101105,2025-08-23,Delhi,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,103.57,75.53,Wallet,In-Store,New
+KFC100862,2025-08-25,Kolkata,East,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,279.03,260.07,Credit Card,Website,Returning
+KFC100695,2025-08-26,Lucknow,North,Chicken Bucket,Buckets,3,599,10.0,1797,179.7,1617.3,897.86,719.44,Wallet,In-Store,New
+KFC100618,2025-08-26,Hyderabad,South,French Fries,Sides,2,99,20.0,198,39.6,158.4,84.42,73.98,Wallet,In-Store,Returning
+KFC100348,2025-08-27,Kolkata,East,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,144.88,91.67,Cash,Food Delivery,Returning
+KFC100994,2025-08-27,Hyderabad,South,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,63.67,52.43,UPI,Food Delivery,Returning
+KFC100406,2025-08-27,Kolkata,East,Chicken Popcorn,Chicken,2,299,20.0,598,119.6,478.4,253.24,225.16,UPI,App,Returning
+KFC100135,2025-08-27,Kolkata,East,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,117.34,100.21,Cash,Food Delivery,Returning
+KFC100023,2025-08-28,Pune,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,123.22,82.88,UPI,App,New
+KFC101143,2025-08-29,Kolkata,East,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,149.3,134.75,Wallet,App,Returning
+KFC101039,2025-08-29,Delhi,North,French Fries,Sides,1,99,15.0,99,14.85,84.15,54.75,29.4,Credit Card,Food Delivery,Returning
+KFC100384,2025-08-30,Kolkata,East,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,123.74,70.91,Credit Card,App,Returning
+KFC100731,2025-08-30,Kolkata,East,Mighty Zinger Burger,Burgers,3,299,10.0,897,89.7,807.3,402.28,405.02,Cash,App,New
+KFC101031,2025-08-30,Lucknow,North,Zinger Combo,Combos,2,349,15.0,698,104.7,593.3,360.46,232.84,Debit Card,Food Delivery,New
+KFC100217,2025-08-30,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,184.56,114.44,Wallet,Food Delivery,New
+KFC100900,2025-08-30,Lucknow,North,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,213.89,135.11,Credit Card,App,New
+KFC100861,2025-08-31,Bengaluru,South,French Fries,Sides,1,99,10.0,99,9.9,89.1,48.7,40.4,UPI,In-Store,Returning
+KFC100770,2025-08-31,Hyderabad,South,Chicken Strips,Chicken,2,249,0.0,498,0.0,498.0,333.94,164.06,Credit Card,Food Delivery,New
+KFC100832,2025-09-01,Chandigarh,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,169.97,99.13,Debit Card,In-Store,Returning
+KFC100516,2025-09-01,Lucknow,North,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,174.95,79.2,Cash,Website,New
+KFC101151,2025-09-01,Chandigarh,North,Chicken Popcorn,Chicken,2,299,15.0,598,89.7,508.3,324.07,184.23,Cash,App,Returning
+KFC100655,2025-09-02,Kolkata,East,Chicken Strips,Chicken,2,249,5.0,498,24.9,473.1,275.8,197.3,Debit Card,App,Returning
+KFC100196,2025-09-02,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,103.73,75.27,Debit Card,App,New
+KFC100710,2025-09-03,Pune,West,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,126.3,81.75,Credit Card,Website,Returning
+KFC100745,2025-09-03,Hyderabad,South,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,284.05,255.05,Debit Card,Food Delivery,Returning
+KFC100839,2025-09-03,Chandigarh,North,Chicken Popcorn,Chicken,3,299,5.0,897,44.85,852.15,494.32,357.83,UPI,In-Store,Returning
+KFC100972,2025-09-03,Pune,West,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,72.55,50.0,UPI,Website,Returning
+KFC100188,2025-09-03,Chandigarh,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,365.58,233.42,Wallet,In-Store,Returning
+KFC100732,2025-09-03,Lucknow,North,Chicken Strips,Chicken,2,249,15.0,498,74.7,423.3,223.74,199.56,Wallet,In-Store,New
+KFC100924,2025-09-03,Lucknow,North,Pepsi,Beverages,2,69,0.0,138,0.0,138.0,78.58,59.42,Debit Card,Website,Returning
+KFC100050,2025-09-04,Lucknow,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,108.52,110.48,Credit Card,App,Returning
+KFC100122,2025-09-04,Lucknow,North,Mighty Zinger Burger,Burgers,2,299,10.0,598,59.8,538.2,261.54,276.66,Debit Card,In-Store,New
+KFC100956,2025-09-04,Mumbai,West,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,377.99,191.06,Cash,App,Returning
+KFC100667,2025-09-04,Delhi,North,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,140.96,113.19,Credit Card,App,New
+KFC100430,2025-09-05,Hyderabad,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,101.9,109.75,Cash,Website,Returning
+KFC100280,2025-09-05,Bengaluru,South,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,90.25,95.9,Debit Card,In-Store,New
+KFC100085,2025-09-06,Delhi,North,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,263.43,275.67,UPI,Website,New
+KFC100615,2025-09-06,Lucknow,North,French Fries,Sides,1,99,10.0,99,9.9,89.1,43.2,45.9,Credit Card,In-Store,Returning
+KFC100734,2025-09-06,Chandigarh,North,Hot & Crispy Chicken,Chicken,2,179,20.0,358,71.6,286.4,150.16,136.24,Cash,App,New
+KFC100347,2025-09-06,Kolkata,East,Zinger Burger,Burgers,2,219,5.0,438,21.9,416.1,246.53,169.57,Debit Card,Website,Returning
+KFC101166,2025-09-06,Bengaluru,South,Chicken Popcorn,Chicken,2,299,5.0,598,29.9,568.1,338.65,229.45,UPI,In-Store,New
+KFC100412,2025-09-08,Mumbai,West,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,182.78,155.52,UPI,App,New
+KFC100578,2025-09-08,Chandigarh,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,131.15,87.85,Cash,Food Delivery,Returning
+KFC100197,2025-09-08,Kolkata,East,Chicken Popcorn,Chicken,1,299,,299,14.95,284.05,166.33,117.72,Debit Card,Website,Returning
+KFC100748,2025-09-09,Bengaluru,South,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,121.03,96.52,UPI,Food Delivery,New
+KFC100026,2025-09-09,Mumbai,West,French Fries,Sides,2,99,15.0,198,29.7,168.3,90.33,77.97,Credit Card,In-Store,Returning
+KFC100063,2025-09-09,Hyderabad,South,Zinger Burger,Burgers,2,219,10.0,438,43.8,394.2,219.59,174.61,Debit Card,App,Returning
+KFC100756,2025-09-09,Mumbai,West,Mighty Zinger Burger,Burgers,2,299,5.0,598,29.9,568.1,273.03,295.07,Debit Card,Food Delivery,Returning
+KFC101174,2025-09-09,Hyderabad,South,Mighty Zinger Burger,Burgers,2,299,10.0,598,59.8,538.2,371.44,166.76,Debit Card,In-Store,Returning
+KFC101142,2025-09-10,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,132.72,116.28,Wallet,Website,New
+KFC100650,2025-09-10,Chandigarh,North,Chicken Popcorn,Chicken,3,299,5.0,897,44.85,852.15,496.92,355.23,Wallet,Food Delivery,New
+KFC100620,2025-09-10,Chandigarh,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,166.96,87.19,,App,Returning
+KFC101162,2025-09-11,Chandigarh,North,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,98.19,96.46,Wallet,Website,New
+KFC101088,2025-09-11,Chandigarh,North,Chicken Popcorn,Chicken,3,299,0.0,897,0.0,897.0,476.65,420.35,UPI,In-Store,Returning
+KFC101156,2025-09-12,Bengaluru,South,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,159.58,94.57,Wallet,Website,Returning
+KFC101165,2025-09-13,Pune,West,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,399.19,198.81,UPI,In-Store,Returning
+KFC100233,2025-09-13,Bengaluru,South,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,395.28,173.77,Credit Card,App,Returning
+KFC100478,2025-09-13,Mumbai,West,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,221.55,213.55,Debit Card,Website,Returning
+KFC100118,2025-09-14,Kolkata,East,Zinger Combo,Combos,1,349,20.0,349,69.8,279.2,164.86,114.34,Wallet,Website,Returning
+KFC100170,2025-09-14,Hyderabad,South,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,127.17,96.93,Credit Card,In-Store,Returning
+KFC100258,2025-09-15,Kolkata,East,Zinger Combo,Combos,4,349,15.0,1396,209.4,1186.6,580.84,605.76,Wallet,App,Returning
+KFC100762,2025-09-15,Kolkata,East,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,60.47,62.08,UPI,App,Returning
+KFC100229,2025-09-15,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,95.87,74.18,Debit Card,App,Returning
+KFC100829,2025-09-15,Lucknow,North,Chocolate Lava Cake,Desserts,2,129,20.0,258,51.6,206.4,114.58,91.82,Credit Card,Website,Returning
+KFC100715,2025-09-15,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,20.0,299,59.8,239.2,134.65,104.55,Wallet,Food Delivery,Returning
+KFC100219,2025-09-15,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,57.22,58.88,Debit Card,Food Delivery,Returning
+KFC100152,2025-09-16,Bengaluru,South,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,35.95,33.05,Wallet,App,Returning
+KFC100791,2025-09-16,Delhi,North,Chocolate Lava Cake,Desserts,1,129,20.0,129,25.8,103.2,54.3,48.9,Debit Card,In-Store,New
+KFC100068,2025-09-16,Delhi,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,58.13,35.92,UPI,Food Delivery,New
+KFC101034,2025-09-16,Kolkata,East,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,186.23,127.87,Credit Card,In-Store,New
+KFC100336,2025-09-17,Kolkata,East,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,163.71,72.84,Credit Card,Food Delivery,New
+KFC100007,2025-09-17,Lucknow,North,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,598.35,539.75,Wallet,Food Delivery,Returning
+KFC100860,2025-09-17,Chandigarh,North,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,168.01,130.99,Cash,Website,Returning
+KFC100916,2025-09-17,Kolkata,East,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,130.83,77.22,Cash,Website,Returning
+KFC101194,2025-09-17,Pune,West,French Fries,Sides,1,99,10.0,99,9.9,89.1,48.51,40.59,Wallet,App,Returning
+KFC100805,2025-09-17,Hyderabad,South,French Fries,Sides,1,99,10.0,99,9.9,89.1,56.11,32.99,Credit Card,Website,New
+KFC100271,2025-09-17,Delhi,North,Chocolate Lava Cake,Desserts,3,129,10.0,387,38.7,348.3,199.46,148.84,Cash,In-Store,New
+KFC100867,2025-09-18,Kolkata,East,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,36.52,29.03,UPI,App,New
+KFC100837,2025-09-18,Kolkata,East,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,35.07,23.58,Wallet,Food Delivery,Returning
+KFC100011,2025-09-18,Bengaluru,South,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,150.86,81.34,Credit Card,Food Delivery,Returning
+KFC100317,2025-09-19,Kolkata,East,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,341.15,356.85,Credit Card,Food Delivery,New
+KFC100042,2025-09-19,Pune,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,106.37,76.83,Wallet,In-Store,Returning
+KFC100588,2025-09-20,Lucknow,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,202.3,96.7,Debit Card,Food Delivery,Returning
+KFC100292,2025-09-20,Mumbai,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,134.9,71.2,Debit Card,App,Returning
+KFC100006,2025-09-21,Mumbai,West,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,377.69,221.31,Debit Card,Website,Returning
+KFC100310,2025-09-21,Kolkata,East,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,175.09,82.91,Credit Card,App,New
+KFC100352,2025-09-21,Lucknow,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,187.81,81.29,Credit Card,App,New
+KFC100207,2025-09-22,Bengaluru,South,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,38.27,23.83,Debit Card,App,Returning
+KFC100297,2025-09-22,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,118.04,52.01,Cash,Website,Returning
+KFC101171,2025-09-22,Pune,West,Rice Bowl,Meals,1,199,20.0,199,39.8,159.2,101.48,57.72,Debit Card,In-Store,Returning
+KFC101135,2025-09-22,Chandigarh,North,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,141.23,107.77,Wallet,Website,Returning
+KFC100685,2025-09-22,Bengaluru,South,Chicken Bucket,Buckets,2,599,10.0,1198,119.8,1078.2,726.49,351.71,Wallet,Food Delivery,Returning
+KFC100237,2025-09-23,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,194.88,104.12,UPI,Website,Returning
+KFC100706,2025-09-23,Kolkata,East,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,36.43,25.67,Wallet,In-Store,New
+KFC100990,2025-09-23,Lucknow,North,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,154.03,130.02,UPI,Food Delivery,New
+KFC100948,2025-09-23,Chandigarh,North,Chicken Bucket,Buckets,2,599,10.0,1198,119.8,1078.2,614.86,463.34,Cash,App,New
+KFC100147,2025-09-23,Chandigarh,North,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,147.41,64.24,UPI,Food Delivery,Returning
+KFC100176,2025-09-24,Lucknow,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,216.6,97.5,Debit Card,In-Store,New
+KFC100702,2025-09-24,Delhi,North,Mighty Zinger Burger,Burgers,2,299,0.0,598,0.0,598.0,330.24,267.76,UPI,Food Delivery,New
+KFC100112,2025-09-24,Kolkata,East,French Fries,Sides,1,99,0.0,99,0.0,99.0,65.82,33.18,UPI,Website,New
+KFC100344,2025-09-24,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,20.0,179,35.8,143.2,97.39,45.81,Wallet,Food Delivery,Returning
+KFC101092,2025-09-24,Mumbai,West,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,115.78,53.37,Wallet,In-Store,Returning
+KFC100793,2025-09-24,Delhi,North,Chocolate Lava Cake,Desserts,1,129,15.0,129,19.35,109.65,66.48,43.17,UPI,Food Delivery,Returning
+KFC100586,2025-09-24,Lucknow,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,161.39,107.71,Credit Card,Website,Returning
+KFC100636,2025-09-24,Lucknow,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,152.57,146.43,Debit Card,App,New
+KFC101064,2025-09-25,Lucknow,North,Chicken Strips,Chicken,3,249,0.0,747,0.0,747.0,469.72,277.28,UPI,Food Delivery,Returning
+KFC100485,2025-09-25,Mumbai,West,Hot & Crispy Chicken,Chicken,2,179,10.0,358,35.8,322.2,204.25,117.95,Cash,Website,Returning
+KFC101056,2025-09-25,Kolkata,East,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,146.22,82.78,Debit Card,In-Store,Returning
+KFC100971,2025-09-25,Delhi,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,274.03,295.02,Cash,In-Store,Returning
+KFC100616,2025-09-26,Kolkata,East,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,246.48,188.62,Wallet,App,New
+KFC101084,2025-09-26,Delhi,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,119.08,60.02,Wallet,Website,New
+KFC100507,2025-09-26,Kolkata,East,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,110.43,58.72,Wallet,App,Returning
+KFC100222,2025-09-26,Lucknow,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,57.91,36.14,UPI,In-Store,New
+KFC101083,2025-09-26,Kolkata,East,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,298.19,300.81,Debit Card,In-Store,Returning
+KFC100555,2025-09-27,Kolkata,East,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,126.66,127.49,Credit Card,Food Delivery,New
+KFC100101,2025-09-27,Chandigarh,North,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,457.16,240.84,Cash,Website,Returning
+KFC100592,2025-09-27,Mumbai,West,French Fries,Sides,2,99,5.0,198,9.9,188.1,93.46,94.64,Debit Card,Website,Returning
+KFC100008,2025-09-28,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,162.66,91.49,Cash,App,Returning
+KFC100433,2025-09-28,Mumbai,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,213.97,100.13,Cash,App,Returning
+KFC100041,2025-09-28,Mumbai,West,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,341.0,357.0,Debit Card,In-Store,New
+KFC100004,2025-09-28,Bengaluru,South,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,89.56,39.44,Debit Card,In-Store,Returning
+KFC100999,2025-09-28,Kolkata,East,Chicken Strips,Chicken,2,249,10.0,498,49.8,448.2,265.28,182.92,Cash,App,Returning
+KFC100411,2025-09-28,Chandigarh,North,Chicken Popcorn,Chicken,3,299,5.0,897,44.85,852.15,438.84,413.31,Debit Card,Website,Returning
+KFC100402,2025-09-28,Kolkata,East,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,98.54,100.46,Debit Card,App,Returning
+KFC100511,2025-09-28,Chandigarh,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,110.73,97.32,Cash,App,Returning
+KFC101138,2025-09-29,Chandigarh,North,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,129.05,125.1,Debit Card,App,Returning
+KFC100532,2025-09-30,Kolkata,East,Zinger Combo,Combos,2,349,10.0,698,69.8,628.2,323.41,304.79,UPI,Website,New
+KFC100342,2025-09-30,Pune,West,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,121.1,85.0,Debit Card,In-Store,New
+KFC100506,2025-09-30,Mumbai,West,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,34.81,30.74,Credit Card,In-Store,Returning
+KFC100367,2025-09-30,Bengaluru,South,Chicken Strips,Chicken,1,249,20.0,249,49.8,199.2,128.97,70.23,Cash,Food Delivery,Returning
+KFC100687,2025-09-30,Lucknow,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,387.01,182.04,Cash,App,Returning
+KFC100005,2025-10-01,Bengaluru,South,French Fries,Sides,2,99,10.0,198,19.8,178.2,103.2,75.0,Cash,App,Returning
+KFC100171,2025-10-01,Pune,West,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,324.47,184.68,Cash,In-Store,Returning
+KFC101060,2025-10-01,Chandigarh,North,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,119.04,67.11,UPI,Website,Returning
+KFC100088,2025-10-01,Hyderabad,South,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,163.91,90.24,Credit Card,Website,Returning
+KFC100918,2025-10-02,Chandigarh,North,Chicken Biryani,Meals,1,229,15.0,229,34.35,194.65,114.97,79.68,UPI,Website,Returning
+KFC100556,2025-10-02,Pune,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,161.0,123.05,Wallet,Website,New
+KFC100619,2025-10-02,Bengaluru,South,Zinger Burger,Burgers,2,219,10.0,438,43.8,394.2,190.66,203.54,Credit Card,In-Store,Returning
+KFC100583,2025-10-02,Chandigarh,North,Mighty Zinger Burger,Burgers,2,299,10.0,598,59.8,538.2,361.69,176.51,Debit Card,App,Returning
+KFC100437,2025-10-02,Kolkata,East,Chicken Bucket,Buckets,3,599,15.0,1797,269.55,1527.45,1003.72,523.73,Cash,Food Delivery,New
+KFC100193,2025-10-03,Pune,West,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,33.71,24.94,Debit Card,In-Store,Returning
+KFC100490,2025-10-03,Delhi,North,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,83.51,85.64,Cash,Food Delivery,Returning
+KFC100351,2025-10-04,Bengaluru,South,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,410.56,252.54,Cash,Website,New
+KFC100445,2025-10-04,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,101.66,68.39,Wallet,Food Delivery,New
+KFC100955,2025-10-04,Hyderabad,South,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,146.27,122.83,Credit Card,App,Returning
+KFC100997,2025-10-04,Hyderabad,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,68.12,30.88,Cash,Website,Returning
+KFC100741,2025-10-04,Delhi,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,232.0,99.55,Debit Card,App,Returning
+KFC100838,2025-10-05,Delhi,North,French Fries,Sides,3,99,5.0,297,14.85,282.15,139.96,142.19,Wallet,App,Returning
+KFC100495,2025-10-05,Lucknow,North,Chicken Bucket,Buckets,1,599,20.0,599,119.8,479.2,258.62,220.58,Credit Card,Food Delivery,New
+KFC100259,2025-10-05,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,81.49,41.06,Debit Card,App,Returning
+KFC100680,2025-10-05,Mumbai,West,Hot & Crispy Chicken,Chicken,2,179,5.0,358,17.9,340.1,214.42,125.68,Credit Card,App,Returning
+KFC100611,2025-10-05,Delhi,North,Chicken Strips,Chicken,2,249,10.0,498,49.8,448.2,296.22,151.98,UPI,App,Returning
+KFC100673,2025-10-06,Mumbai,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,135.06,101.49,Credit Card,App,Returning
+KFC100591,2025-10-06,Kolkata,East,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,113.64,75.41,Credit Card,In-Store,Returning
+KFC100844,2025-10-06,Kolkata,East,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,130.02,118.98,UPI,Food Delivery,Returning
+KFC100220,2025-10-07,Mumbai,West,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,170.16,98.94,Cash,Website,New
+KFC100306,2025-10-08,Bengaluru,South,Chicken Popcorn,Chicken,3,299,0.0,897,0.0,897.0,513.95,383.05,Credit Card,Website,New
+KFC100872,2025-10-08,Lucknow,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,49.51,49.49,Debit Card,Food Delivery,New
+KFC100724,2025-10-08,Kolkata,East,Mighty Zinger Burger,Burgers,4,299,10.0,1196,119.6,1076.4,686.62,389.78,Cash,Website,Returning
+KFC100210,2025-10-08,Bengaluru,South,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,121.35,57.75,Cash,Food Delivery,Returning
+KFC100816,2025-10-08,Mumbai,West,Chicken Biryani,Meals,1,229,20.0,229,45.8,183.2,122.26,60.94,Debit Card,App,New
+KFC100141,2025-10-09,Pune,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,60.33,38.67,Wallet,Website,Returning
+KFC100853,2025-10-09,Bengaluru,South,French Fries,Sides,2,99,5.0,198,9.9,188.1,101.45,86.65,UPI,In-Store,Returning
+KFC101199,2025-10-09,Delhi,North,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,147.65,88.9,Wallet,Food Delivery,Returning
+KFC100244,2025-10-09,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,127.48,126.67,Cash,Website,New
+KFC100987,2025-10-10,Hyderabad,South,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,134.99,94.01,Credit Card,Food Delivery,Returning
+KFC100073,2025-10-10,Bengaluru,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,144.26,63.79,UPI,App,New
+KFC101026,2025-10-10,Delhi,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,175.19,93.91,Wallet,Website,New
+KFC100849,2025-10-10,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,76.04,52.96,Cash,App,New
+KFC100831,2025-10-10,Mumbai,West,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,40.89,21.21,Credit Card,Food Delivery,Returning
+KFC100428,2025-10-10,Kolkata,East,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,303.04,236.06,Credit Card,App,Returning
+KFC100873,2025-10-11,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,59.83,62.72,Wallet,Food Delivery,Returning
+KFC100439,2025-10-11,Pune,West,French Fries,Sides,1,99,5.0,99,4.95,94.05,50.71,43.34,UPI,Website,Returning
+KFC100645,2025-10-11,Kolkata,East,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,105.35,102.7,Debit Card,Food Delivery,Returning
+KFC100518,2025-10-11,Mumbai,West,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,164.12,134.88,UPI,Website,New
+KFC100307,2025-10-11,Bengaluru,South,French Fries,Sides,3,99,15.0,297,44.55,252.45,160.02,92.43,Cash,App,Returning
+KFC100125,2025-10-12,Hyderabad,South,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,294.69,143.31,Cash,Website,Returning
+KFC100326,2025-10-12,Chandigarh,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,142.97,65.08,UPI,Website,Returning
+KFC100119,2025-10-13,Lucknow,North,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,134.66,123.34,Debit Card,Website,New
+KFC100939,2025-10-13,Kolkata,East,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,47.72,21.28,Cash,In-Store,New
+KFC101006,2025-10-13,Hyderabad,South,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,47.3,21.7,Wallet,Food Delivery,Returning
+KFC100541,2025-10-13,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,154.2,129.85,Credit Card,Website,Returning
+KFC100662,2025-10-13,Pune,West,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,113.42,55.73,Credit Card,Website,Returning
+KFC100950,2025-10-14,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,70.5,52.05,UPI,Food Delivery,Returning
+KFC100504,2025-10-14,Mumbai,West,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,180.15,118.85,Wallet,Food Delivery,New
+KFC100225,2025-10-14,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,123.79,55.21,UPI,Food Delivery,Returning
+KFC100543,2025-10-15,Pune,West,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,44.66,20.89,Credit Card,Website,New
+KFC100562,2025-10-15,Delhi,North,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,187.49,81.61,Credit Card,Food Delivery,Returning
+KFC100381,2025-10-15,Pune,West,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,111.37,67.73,Cash,Website,Returning
+KFC100422,2025-10-16,Pune,West,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,196.81,152.19,Wallet,In-Store,Returning
+KFC100301,2025-10-16,Delhi,North,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,461.12,201.98,Cash,App,Returning
+KFC100450,2025-10-16,Pune,West,Chicken Bucket,Buckets,2,599,5.0,1198,59.9,1138.1,586.69,551.41,UPI,Website,New
+KFC100919,2025-10-16,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,165.76,118.29,Wallet,Website,New
+KFC100357,2025-10-17,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,154.8,129.25,Debit Card,In-Store,New
+KFC100247,2025-10-17,Lucknow,North,Pepsi,Beverages,2,69,5.0,138,6.9,131.1,81.31,49.79,Debit Card,Website,Returning
+KFC101197,2025-10-17,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,77.65,74.5,UPI,App,Returning
+KFC100114,2025-10-18,Pune,West,French Fries,Sides,1,99,15.0,99,14.85,84.15,40.48,43.67,Cash,App,Returning
+KFC100597,2025-10-19,Delhi,North,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,321.03,277.97,Credit Card,In-Store,New
+KFC100252,2025-10-19,Delhi,North,Chicken Biryani,Meals,3,229,10.0,687,68.7,618.3,298.2,320.1,Cash,Website,New
+KFC100931,2025-10-19,Mumbai,West,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,222.75,135.25,Wallet,Food Delivery,New
+KFC101150,2025-10-20,Mumbai,West,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,136.46,81.09,,App,New
+KFC100218,2025-10-20,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,147.5,136.55,Debit Card,In-Store,New
+KFC100827,2025-10-20,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,177.01,121.99,Wallet,In-Store,Returning
+KFC100286,2025-10-21,Pune,West,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,390.57,207.43,Cash,Food Delivery,Returning
+KFC100134,2025-10-22,Bengaluru,South,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,150.96,85.59,Debit Card,Website,Returning
+KFC100500,2025-10-22,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,,299,29.9,269.1,136.46,132.64,Cash,Food Delivery,Returning
+KFC100150,2025-10-22,Mumbai,West,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,157.25,100.75,Debit Card,Website,Returning
+KFC101124,2025-10-22,Bengaluru,South,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,128.28,90.72,Cash,In-Store,Returning
+KFC100260,2025-10-22,Bengaluru,South,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,130.16,75.94,Cash,Food Delivery,Returning
+KFC100358,2025-10-22,Kolkata,East,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,139.3,89.7,UPI,App,Returning
+KFC100328,2025-10-23,Pune,West,Chocolate Lava Cake,Desserts,2,129,0.0,258,0.0,258.0,154.15,103.85,Credit Card,App,Returning
+KFC100911,2025-10-24,Chandigarh,North,Mighty Zinger Burger,Burgers,2,299,5.0,598,29.9,568.1,377.87,190.23,Debit Card,In-Store,New
+KFC100929,2025-10-25,Chandigarh,North,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,126.07,102.93,Wallet,Food Delivery,Returning
+KFC100390,2025-10-26,Bengaluru,South,Mighty Zinger Burger,Burgers,2,299,5.0,598,29.9,568.1,359.96,208.14,Wallet,In-Store,Returning
+KFC101181,2025-10-27,Hyderabad,South,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,96.19,102.81,Credit Card,In-Store,Returning
+KFC100192,2025-10-28,Pune,West,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,114.02,110.08,Debit Card,Website,New
+KFC100382,2025-10-28,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,79.58,49.42,Debit Card,Food Delivery,Returning
+KFC100323,2025-10-28,Pune,West,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,225.91,186.29,Credit Card,Food Delivery,Returning
+KFC100772,2025-10-28,Lucknow,North,French Fries,Sides,1,99,10.0,99,9.9,89.1,59.78,29.32,Cash,In-Store,Returning
+KFC100691,2025-10-28,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,83.17,45.83,Cash,Food Delivery,New
+KFC100973,2025-10-28,Hyderabad,South,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,365.85,173.25,Cash,Website,Returning
+KFC100879,2025-10-29,Bengaluru,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,63.3,35.7,Debit Card,In-Store,Returning
+KFC100524,2025-10-29,Chandigarh,North,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,113.59,94.46,UPI,App,Returning
+KFC100563,2025-10-29,Mumbai,West,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,359.65,179.45,Wallet,Food Delivery,Returning
+KFC101182,2025-10-30,Bengaluru,South,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,285.34,172.66,Wallet,Website,Returning
+KFC100303,2025-10-30,Hyderabad,South,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,126.78,62.27,Wallet,Food Delivery,Returning
+KFC100400,2025-10-30,Chandigarh,North,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,333.49,264.51,Credit Card,In-Store,Returning
+KFC100830,2025-10-31,Mumbai,West,Chicken Biryani,Meals,4,229,10.0,916,91.6,824.4,530.29,294.11,UPI,App,Returning
+KFC101153,2025-10-31,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,150.78,118.32,UPI,Food Delivery,New
+KFC100202,2025-10-31,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,100.71,51.44,Wallet,App,New
+KFC100477,2025-10-31,Bengaluru,South,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,97.39,63.71,Wallet,Food Delivery,New
+KFC100206,2025-11-01,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,152.17,116.93,UPI,Food Delivery,New
+KFC100149,2025-11-01,Delhi,North,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,103.69,107.96,UPI,In-Store,New
+KFC100564,2025-11-02,Bengaluru,South,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,95.31,101.79,Cash,Food Delivery,Returning
+KFC100612,2025-11-02,Bengaluru,South,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,37.98,27.57,Cash,App,New
+KFC100595,2025-11-02,Mumbai,West,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,117.77,101.23,Debit Card,In-Store,New
+KFC100363,2025-11-02,Mumbai,West,Pepsi,Beverages,1,69,10.0,69,6.9,62.1,30.66,31.44,UPI,Website,New
+KFC100290,2025-11-03,Hyderabad,South,Hot & Crispy Chicken,Chicken,2,179,5.0,358,17.9,340.1,221.28,118.82,Debit Card,In-Store,New
+KFC101054,2025-11-03,Delhi,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,161.35,92.8,Credit Card,Website,Returning
+KFC101185,2025-11-03,Pune,West,Chicken Biryani,Meals,1,229,0.0,229,0.0,229.0,153.71,75.29,Credit Card,Website,New
+KFC100133,2025-11-03,Kolkata,East,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,44.32,24.68,Wallet,In-Store,Returning
+KFC100528,2025-11-03,Delhi,North,Chicken Strips,Chicken,2,249,10.0,498,49.8,448.2,284.13,164.07,Debit Card,In-Store,New
+KFC100634,2025-11-04,Mumbai,West,French Fries,Sides,3,99,0.0,297,0.0,297.0,152.61,144.39,Wallet,Food Delivery,Returning
+KFC101063,2025-11-04,Hyderabad,South,Chicken Strips,Chicken,2,249,,498,74.7,423.3,247.22,176.08,Wallet,In-Store,New
+KFC100737,2025-11-04,Delhi,North,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,114.2,109.9,Wallet,In-Store,Returning
+KFC100346,2025-11-04,Delhi,North,Zinger Combo,Combos,3,349,5.0,1047,52.35,994.65,497.93,496.72,Credit Card,In-Store,New
+KFC100079,2025-11-04,Mumbai,West,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,386.34,182.71,UPI,Website,Returning
+KFC100002,2025-11-05,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,80.39,48.61,Credit Card,In-Store,Returning
+KFC100713,2025-11-05,Bengaluru,South,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,129.2,59.85,UPI,In-Store,New
+KFC100514,2025-11-06,Kolkata,East,Zinger Combo,Combos,1,349,,349,0.0,349.0,231.01,117.99,UPI,App,New
+KFC100234,2025-11-06,Delhi,North,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,406.73,256.37,Wallet,In-Store,Returning
+KFC101140,2025-11-07,Delhi,North,Chocolate Lava Cake,Desserts,2,129,15.0,258,38.7,219.3,128.73,90.57,Cash,App,New
+KFC101109,2025-11-07,Delhi,North,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,135.23,83.77,Debit Card,App,New
+KFC100145,2025-11-07,Pune,West,French Fries,Sides,1,99,15.0,99,14.85,84.15,51.79,32.36,Debit Card,Website,Returning
+KFC100230,2025-11-07,Bengaluru,South,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,75.02,47.53,Debit Card,Website,Returning
+KFC100457,2025-11-08,Chandigarh,North,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,78.67,45.53,UPI,App,Returning
+KFC100418,2025-11-09,Hyderabad,South,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,120.24,58.76,Wallet,In-Store,New
+KFC100281,2025-11-09,Pune,West,Rice Bowl,Meals,1,199,5.0,199,9.95,189.05,101.56,87.49,Wallet,Website,Returning
+KFC100510,2025-11-09,Mumbai,West,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,221.17,136.83,Cash,App,Returning
+KFC100332,2025-11-09,Hyderabad,South,French Fries,Sides,1,99,15.0,99,14.85,84.15,40.62,43.53,Cash,In-Store,Returning
+KFC100448,2025-11-09,Pune,West,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,198.44,98.21,UPI,App,Returning
+KFC100807,2025-11-09,Mumbai,West,Pepsi,Beverages,2,69,0.0,138,0.0,138.0,66.45,71.55,Wallet,In-Store,Returning
+KFC100242,2025-11-10,Pune,West,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,83.5,45.5,Wallet,App,New
+KFC100963,2025-11-10,Chandigarh,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,385.34,183.71,Credit Card,Website,New
+KFC100960,2025-11-11,Pune,West,French Fries,Sides,2,99,5.0,198,9.9,188.1,103.89,84.21,UPI,In-Store,New
+KFC100646,2025-11-11,Mumbai,West,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,143.12,125.98,Debit Card,In-Store,New
+KFC100744,2025-11-11,Bengaluru,South,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,165.29,103.81,Cash,App,New
+KFC100190,2025-11-12,Hyderabad,South,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,345.13,253.87,Wallet,Food Delivery,Returning
+KFC101090,2025-11-12,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,147.24,151.76,Credit Card,App,Returning
+KFC101073,2025-11-12,Bengaluru,South,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,132.81,73.29,UPI,App,New
+KFC101041,2025-11-12,Kolkata,East,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,177.84,76.31,Debit Card,App,Returning
+KFC100546,2025-11-12,Lucknow,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,216.05,115.5,Cash,Food Delivery,Returning
+KFC100033,2025-11-13,Mumbai,West,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,72.81,43.29,Debit Card,In-Store,New
+KFC100947,2025-11-13,Delhi,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,312.7,256.35,Cash,Website,Returning
+KFC100641,2025-11-14,Bengaluru,South,Chicken Strips,Chicken,1,249,,249,0.0,249.0,148.19,100.81,UPI,In-Store,Returning
+KFC100421,2025-11-14,Chandigarh,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,64.59,34.41,Credit Card,In-Store,New
+KFC100044,2025-11-14,Chandigarh,North,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,311.29,286.71,UPI,In-Store,Returning
+KFC100689,2025-11-14,Kolkata,East,Rice Bowl,Meals,2,199,15.0,398,59.7,338.3,225.28,113.02,UPI,App,New
+KFC100782,2025-11-14,Pune,West,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,137.05,95.15,Debit Card,Website,Returning
+KFC101101,2025-11-14,Bengaluru,South,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,182.24,149.31,UPI,App,New
+KFC100093,2025-11-14,Kolkata,East,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,157.82,78.73,UPI,Food Delivery,New
+KFC100436,2025-11-14,Lucknow,North,Chocolate Lava Cake,Desserts,2,129,5.0,258,12.9,245.1,140.55,104.55,Credit Card,App,Returning
+KFC100174,2025-11-15,Kolkata,East,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,109.04,99.01,Wallet,App,Returning
+KFC100991,2025-11-15,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,99.97,79.03,Wallet,Website,Returning
+KFC100557,2025-11-15,Bengaluru,South,Chicken Strips,Chicken,2,249,5.0,498,24.9,473.1,303.47,169.63,Cash,Website,Returning
+KFC100175,2025-11-16,Bengaluru,South,Chicken Biryani,Meals,4,229,0.0,916,0.0,916.0,533.31,382.69,Credit Card,Website,Returning
+KFC100454,2025-11-16,Pune,West,Chicken Bucket,Buckets,1,599,0.0,599,0.0,599.0,367.33,231.67,Wallet,App,Returning
+KFC101036,2025-11-16,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,65.22,63.78,Wallet,In-Store,Returning
+KFC100594,2025-11-16,Hyderabad,South,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,69.53,53.02,UPI,Website,Returning
+KFC100383,2025-11-17,Lucknow,North,Chicken Biryani,Meals,2,229,0.0,458,0.0,458.0,284.61,173.39,UPI,Food Delivery,Returning
+KFC100335,2025-11-17,Lucknow,North,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,173.64,75.36,Cash,App,New
+KFC101028,2025-11-18,Mumbai,West,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,124.19,74.81,UPI,In-Store,Returning
+KFC100763,2025-11-19,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,10.0,179,17.9,161.1,88.11,72.99,Debit Card,In-Store,Returning
+KFC100544,2025-11-19,Lucknow,North,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,30.93,27.72,Credit Card,Food Delivery,Returning
+KFC101190,2025-11-20,Pune,West,French Fries,Sides,1,99,5.0,99,4.95,94.05,47.96,46.09,Wallet,In-Store,Returning
+KFC100442,2025-11-20,Kolkata,East,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,105.26,73.74,Cash,Food Delivery,New
+KFC101098,2025-11-20,Kolkata,East,French Fries,Sides,1,99,0.0,99,0.0,99.0,56.89,42.11,UPI,Food Delivery,Returning
+KFC100397,2025-11-20,Pune,West,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,301.3,237.8,UPI,Website,Returning
+KFC100682,2025-11-20,Mumbai,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,65.21,33.79,UPI,App,New
+KFC101111,2025-11-20,Mumbai,West,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,124.8,107.4,Wallet,In-Store,New
+KFC100312,2025-11-21,Bengaluru,South,Chicken Popcorn,Chicken,4,299,15.0,1196,179.4,1016.6,604.59,412.01,Cash,App,Returning
+KFC101015,2025-11-21,Pune,West,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,194.51,137.04,Credit Card,In-Store,New
+KFC100942,2025-11-21,Mumbai,West,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,152.95,66.05,UPI,Website,Returning
+KFC100272,2025-11-21,Hyderabad,South,Zinger Combo,Combos,2,349,5.0,698,34.9,663.1,401.71,261.39,UPI,In-Store,Returning
+KFC100863,2025-11-22,Lucknow,North,Zinger Burger,Burgers,1,219,20.0,219,43.8,175.2,84.94,90.26,Debit Card,In-Store,New
+KFC101128,2025-11-22,Lucknow,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,53.75,40.3,Credit Card,In-Store,Returning
+KFC100846,2025-11-22,Delhi,North,French Fries,Sides,3,99,10.0,297,29.7,267.3,182.27,85.03,Debit Card,In-Store,Returning
+KFC101008,2025-11-23,Chandigarh,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,49.72,49.28,Debit Card,Food Delivery,Returning
+KFC100283,2025-11-23,Delhi,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,52.99,46.01,UPI,App,Returning
+KFC101003,2025-11-26,Chandigarh,North,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,128.05,69.05,UPI,Food Delivery,Returning
+KFC100635,2025-11-26,Hyderabad,South,Chicken Bucket,Buckets,1,599,15.0,599,89.85,509.15,356.06,153.09,Wallet,Food Delivery,New
+KFC100992,2025-11-26,Hyderabad,South,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,365.97,332.03,Cash,Food Delivery,New
+KFC100961,2025-11-26,Lucknow,North,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,336.54,361.46,Cash,Food Delivery,Returning
+KFC101129,2025-11-27,Pune,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,218.22,95.88,Wallet,Food Delivery,New
+KFC100962,2025-11-27,Kolkata,East,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,62.85,59.7,Wallet,App,Returning
+KFC100664,2025-11-28,Bengaluru,South,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,380.65,188.4,Credit Card,Food Delivery,New
+KFC101130,2025-11-28,Kolkata,East,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,196.63,102.37,UPI,In-Store,Returning
+KFC100758,2025-11-28,Bengaluru,South,Chicken Popcorn,Chicken,1,299,20.0,299,59.8,239.2,118.64,120.56,Wallet,In-Store,New
+KFC100733,2025-11-29,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,174.4,124.6,Debit Card,Website,Returning
+KFC100552,2025-11-29,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,182.22,116.78,Cash,Food Delivery,New
+KFC101077,2025-11-29,Hyderabad,South,Chicken Strips,Chicken,1,249,15.0,249,37.35,211.65,121.42,90.23,Debit Card,Website,Returning
+KFC101103,2025-11-29,Bengaluru,South,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,96.52,82.48,Cash,App,Returning
+KFC100195,2025-11-30,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,133.5,120.65,Credit Card,App,Returning
+KFC100899,2025-11-30,Kolkata,East,Zinger Combo,Combos,2,349,0.0,698,0.0,698.0,435.9,262.1,Wallet,Website,Returning
+KFC100653,2025-11-30,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,95.99,83.01,UPI,App,Returning
+KFC100164,2025-12-01,Mumbai,West,Rice Bowl,Meals,1,199,15.0,199,29.85,169.15,95.79,73.36,Wallet,App,Returning
+KFC100671,2025-12-01,Bengaluru,South,French Fries,Sides,2,99,0.0,198,0.0,198.0,107.42,90.58,Credit Card,Website,Returning
+KFC100651,2025-12-01,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,147.3,121.8,Debit Card,Food Delivery,Returning
+KFC101062,2025-12-02,Hyderabad,South,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,102.76,94.34,UPI,Food Delivery,Returning
+KFC100159,2025-12-02,Bengaluru,South,Chicken Biryani,Meals,2,229,10.0,458,45.8,412.2,245.13,167.07,Cash,App,New
+KFC100509,2025-12-03,Pune,West,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,264.16,274.94,Debit Card,In-Store,Returning
+KFC100169,2025-12-03,Hyderabad,South,Chicken Bucket,Buckets,1,599,10.0,599,59.9,539.1,291.18,247.92,Cash,In-Store,Returning
+KFC100117,2025-12-03,Kolkata,East,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,76.54,52.46,Cash,App,New
+KFC101013,2025-12-03,Mumbai,West,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,131.63,100.57,Cash,In-Store,New
+KFC100977,2025-12-04,Kolkata,East,Chicken Popcorn,Chicken,1,299,15.0,299,44.85,254.15,144.61,109.54,Debit Card,Website,New
+KFC100416,2025-12-05,Pune,West,Chocolate Lava Cake,Desserts,2,129,5.0,258,12.9,245.1,169.79,75.31,Wallet,App,New
+KFC100483,2025-12-05,Delhi,North,Rice Bowl,Meals,1,199,20.0,199,39.8,159.2,78.86,80.34,UPI,In-Store,Returning
+KFC100515,2025-12-05,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,20.0,129,25.8,103.2,64.7,38.5,Cash,Food Delivery,Returning
+KFC100458,2025-12-05,Bengaluru,South,French Fries,Sides,1,99,0.0,99,0.0,99.0,59.1,39.9,Debit Card,Website,Returning
+KFC100062,2025-12-05,Bengaluru,South,Chicken Bucket,Buckets,2,599,0.0,1198,0.0,1198.0,597.4,600.6,Wallet,App,Returning
+KFC100523,2025-12-06,Kolkata,East,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,121.6,97.4,UPI,In-Store,New
+KFC100443,2025-12-07,Kolkata,East,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,194.09,89.96,Wallet,App,Returning
+KFC100199,2025-12-07,Lucknow,North,Hot & Crispy Chicken,Chicken,3,179,10.0,537,53.7,483.3,249.25,234.05,UPI,Food Delivery,Returning
+KFC100921,2025-12-07,Chandigarh,North,Mighty Zinger Burger,Burgers,2,299,15.0,598,89.7,508.3,293.9,214.4,UPI,Food Delivery,Returning
+KFC100277,2025-12-08,Chandigarh,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,48.49,50.51,Cash,Food Delivery,New
+KFC100750,2025-12-08,Mumbai,West,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,136.35,82.65,Credit Card,In-Store,Returning
+KFC100127,2025-12-08,Lucknow,North,Zinger Combo,Combos,1,349,5.0,349,17.45,331.55,180.62,150.93,Cash,In-Store,New
+KFC100584,2025-12-08,Delhi,North,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,174.91,109.14,Debit Card,Food Delivery,New
+KFC101158,2025-12-08,Delhi,North,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,337.46,231.59,Wallet,In-Store,Returning
+KFC100658,2025-12-08,Pune,West,French Fries,Sides,2,99,0.0,198,0.0,198.0,119.16,78.84,Credit Card,Food Delivery,Returning
+KFC100621,2025-12-09,Hyderabad,South,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,323.56,245.49,Cash,Website,New
+KFC100560,2025-12-09,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,87.7,91.3,Debit Card,App,New
+KFC101159,2025-12-09,Kolkata,East,Zinger Combo,Combos,4,349,10.0,1396,139.6,1256.4,822.44,433.96,Credit Card,Food Delivery,New
+KFC100885,2025-12-09,Lucknow,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,166.79,102.31,Cash,In-Store,New
+KFC100116,2025-12-10,Kolkata,East,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,162.52,121.53,UPI,App,Returning
+KFC100010,2025-12-10,Pune,West,French Fries,Sides,2,99,0.0,198,0.0,198.0,138.03,59.97,UPI,In-Store,New
+KFC100580,2025-12-10,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,124.8,54.2,Debit Card,App,New
+KFC100681,2025-12-10,Pune,West,French Fries,Sides,1,99,0.0,99,0.0,99.0,51.92,47.08,UPI,App,New
+KFC100191,2025-12-11,Delhi,North,Rice Bowl,Meals,1,199,0.0,199,0.0,199.0,124.07,74.93,UPI,In-Store,New
+KFC100526,2025-12-11,Lucknow,North,Zinger Combo,Combos,1,349,15.0,349,52.35,296.65,168.47,128.18,Cash,App,New
+KFC100530,2025-12-11,Pune,West,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,34.88,34.12,Cash,App,Returning
+KFC100282,2025-12-11,Bengaluru,South,Chicken Strips,Chicken,2,249,0.0,498,0.0,498.0,276.1,221.9,Wallet,In-Store,Returning
+KFC100539,2025-12-12,Lucknow,North,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,74.44,77.71,Cash,In-Store,Returning
+KFC100897,2025-12-12,Kolkata,East,French Fries,Sides,2,99,5.0,198,9.9,188.1,122.75,65.35,Cash,Website,Returning
+KFC100780,2025-12-12,Bengaluru,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,131.1,76.95,Cash,Website,New
+KFC101079,2025-12-12,Chandigarh,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,61.94,67.06,Credit Card,In-Store,Returning
+KFC101131,2025-12-12,Hyderabad,South,Mighty Zinger Burger,Burgers,3,299,5.0,897,44.85,852.15,446.05,406.1,Wallet,Website,Returning
+KFC100024,2025-12-12,Lucknow,North,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,197.59,116.51,Debit Card,Food Delivery,New
+KFC100316,2025-12-13,Pune,West,Mighty Zinger Burger,Burgers,3,299,0.0,897,0.0,897.0,484.15,412.85,UPI,App,New
+KFC100727,2025-12-13,Delhi,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,37.23,28.32,Debit Card,Website,Returning
+KFC100847,2025-12-13,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,123.3,55.7,Credit Card,App,Returning
+KFC100069,2025-12-14,Kolkata,East,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,111.51,94.59,Cash,Website,Returning
+KFC100854,2025-12-14,Chandigarh,North,Chicken Biryani,Meals,2,229,5.0,458,22.9,435.1,228.19,206.91,Debit Card,Food Delivery,Returning
+KFC101167,2025-12-14,Pune,West,Zinger Combo,Combos,1,349,10.0,349,34.9,314.1,181.68,132.42,UPI,Website,Returning
+KFC100274,2025-12-15,Bengaluru,South,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,158.96,77.59,Wallet,In-Store,Returning
+KFC100046,2025-12-15,Lucknow,North,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,113.5,83.6,Debit Card,In-Store,Returning
+KFC101114,2025-12-15,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,5.0,129,6.45,122.55,67.53,55.02,Debit Card,App,Returning
+KFC100934,2025-12-16,Mumbai,West,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,225.16,132.84,Credit Card,In-Store,Returning
+KFC100476,2025-12-17,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,75.14,53.86,Wallet,App,New
+KFC100781,2025-12-17,Lucknow,North,Chocolate Lava Cake,Desserts,1,129,10.0,129,12.9,116.1,77.94,38.16,Wallet,In-Store,Returning
+KFC100349,2025-12-18,Lucknow,North,French Fries,Sides,2,99,5.0,198,9.9,188.1,125.34,62.76,Debit Card,Food Delivery,Returning
+KFC100998,2025-12-19,Hyderabad,South,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,345.33,252.67,Cash,Food Delivery,New
+KFC100720,2025-12-19,Mumbai,West,Chicken Strips,Chicken,1,249,5.0,249,12.45,236.55,156.04,80.51,Cash,App,Returning
+KFC100876,2025-12-19,Mumbai,West,Zinger Burger,Burgers,1,219,10.0,219,21.9,197.1,105.69,91.41,Cash,Food Delivery,Returning
+KFC100103,2025-12-19,Lucknow,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,126.57,90.98,UPI,App,Returning
+KFC100801,2025-12-19,Pune,West,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,127.62,91.38,Debit Card,Website,Returning
+KFC100441,2025-12-20,Mumbai,West,Hot & Crispy Chicken,Chicken,1,179,15.0,179,26.85,152.15,75.17,76.98,Debit Card,Website,New
+KFC100331,2025-12-20,Delhi,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,103.56,75.54,Debit Card,Food Delivery,Returning
+KFC100453,2025-12-20,Kolkata,East,Zinger Burger,Burgers,2,219,10.0,438,43.8,394.2,224.93,169.27,Debit Card,App,Returning
+KFC100305,2025-12-20,Delhi,North,Chicken Popcorn,Chicken,2,299,0.0,598,0.0,598.0,309.28,288.72,Cash,App,Returning
+KFC100652,2025-12-20,Lucknow,North,Rice Bowl,Meals,1,199,10.0,199,19.9,179.1,119.99,59.11,Wallet,In-Store,Returning
+KFC101157,2025-12-21,Chandigarh,North,Hot & Crispy Chicken,Chicken,1,179,5.0,179,8.95,170.05,112.91,57.14,Wallet,In-Store,Returning
+KFC100628,2025-12-21,Pune,West,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,177.39,171.61,UPI,In-Store,New
+KFC100304,2025-12-21,Kolkata,East,Chicken Strips,Chicken,2,249,15.0,498,74.7,423.3,224.86,198.44,Cash,App,Returning
+KFC100936,2025-12-22,Kolkata,East,Chicken Bucket,Buckets,2,599,15.0,1198,179.7,1018.3,610.9,407.4,Cash,In-Store,New
+KFC100097,2025-12-22,Mumbai,West,Zinger Burger,Burgers,2,219,0.0,438,0.0,438.0,259.01,178.99,Wallet,Food Delivery,Returning
+KFC100922,2025-12-22,Delhi,North,Chocolate Lava Cake,Desserts,1,129,0.0,129,0.0,129.0,65.58,63.42,Cash,Food Delivery,New
+KFC101154,2025-12-22,Kolkata,East,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,46.56,22.44,Credit Card,Food Delivery,New
+KFC100798,2025-12-22,Kolkata,East,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,178.9,90.2,Cash,In-Store,Returning
+KFC100982,2025-12-22,Delhi,North,Hot & Crispy Chicken,Chicken,1,179,0.0,179,0.0,179.0,117.77,61.23,Cash,Website,Returning
+KFC100329,2025-12-23,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,169.79,129.21,Wallet,Website,Returning
+KFC101183,2025-12-23,Delhi,North,Mighty Zinger Burger,Burgers,1,299,5.0,299,14.95,284.05,138.57,145.48,Wallet,App,New
+KFC101017,2025-12-23,Kolkata,East,Zinger Burger,Burgers,1,219,0.0,219,0.0,219.0,147.57,71.43,UPI,Website,Returning
+KFC100914,2025-12-23,Mumbai,West,Zinger Combo,Combos,2,349,10.0,698,69.8,628.2,345.39,282.81,Cash,App,New
+KFC100903,2025-12-24,Delhi,North,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,153.54,78.66,Debit Card,App,Returning
+KFC100389,2025-12-24,Bengaluru,South,Mighty Zinger Burger,Burgers,1,299,15.0,299,44.85,254.15,131.84,122.31,Credit Card,Website,New
+KFC101110,2025-12-24,Hyderabad,South,Chicken Popcorn,Chicken,1,299,10.0,299,29.9,269.1,175.63,93.47,Credit Card,Food Delivery,Returning
+KFC101102,2025-12-24,Chandigarh,North,Chicken Popcorn,Chicken,2,299,5.0,598,29.9,568.1,384.73,183.37,UPI,In-Store,New
+KFC100814,2025-12-25,Delhi,North,Pepsi,Beverages,2,69,5.0,138,6.9,131.1,80.36,50.74,Credit Card,Website,New
+KFC100755,2025-12-25,Mumbai,West,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,163.88,135.12,Credit Card,Website,Returning
+KFC100396,2025-12-25,Chandigarh,North,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,147.32,151.68,Debit Card,Website,Returning
+KFC100884,2025-12-26,Chandigarh,North,Zinger Combo,Combos,1,349,0.0,349,0.0,349.0,224.7,124.3,UPI,In-Store,Returning
+KFC100025,2025-12-26,Chandigarh,North,Rice Bowl,Meals,3,199,5.0,597,29.85,567.15,336.83,230.32,UPI,Food Delivery,New
+KFC100109,2025-12-26,Bengaluru,South,Pepsi,Beverages,1,69,15.0,69,10.35,58.65,40.53,18.12,Credit Card,Website,Returning
+KFC100631,2025-12-26,Delhi,North,French Fries,Sides,1,99,0.0,99,0.0,99.0,51.47,47.53,Credit Card,Website,Returning
+KFC100717,2025-12-28,Chandigarh,North,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,37.82,31.18,Cash,In-Store,New
+KFC101116,2025-12-28,Hyderabad,South,Hot & Crispy Chicken,Chicken,2,179,0.0,358,0.0,358.0,228.57,129.43,Debit Card,App,Returning
+KFC100131,2025-12-28,Pune,West,Zinger Burger,Burgers,1,219,15.0,219,32.85,186.15,97.81,88.34,Wallet,Food Delivery,Returning
+KFC101192,2025-12-29,Chandigarh,North,Rice Bowl,Meals,1,199,20.0,199,39.8,159.2,110.03,49.17,UPI,App,New
+KFC100623,2025-12-29,Delhi,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,58.99,35.06,Wallet,Food Delivery,New
+KFC100912,2025-12-29,Hyderabad,South,Pepsi,Beverages,2,69,15.0,138,20.7,117.3,69.2,48.1,Credit Card,Food Delivery,Returning
+KFC100279,2025-12-29,Pune,West,French Fries,Sides,2,99,0.0,198,0.0,198.0,122.03,75.97,UPI,App,Returning
+KFC100320,2025-12-29,Hyderabad,South,Pepsi,Beverages,2,69,10.0,138,13.8,124.2,73.62,50.58,UPI,App,Returning
+KFC100209,2025-12-30,Chandigarh,North,Mighty Zinger Burger,Burgers,1,299,10.0,299,29.9,269.1,177.3,91.8,Debit Card,Food Delivery,New
+KFC100261,2025-12-30,Hyderabad,South,Chicken Strips,Chicken,1,249,10.0,249,24.9,224.1,147.59,76.51,Wallet,Food Delivery,Returning
+KFC100394,2025-12-30,Lucknow,North,Chicken Biryani,Meals,1,229,5.0,229,11.45,217.55,105.82,111.73,Wallet,App,New
+KFC100298,2025-12-30,Chandigarh,North,Chicken Popcorn,Chicken,1,299,5.0,299,14.95,284.05,187.69,96.36,UPI,App,New
+KFC100869,2025-12-30,Hyderabad,South,Mighty Zinger Burger,Burgers,1,299,0.0,299,0.0,299.0,208.37,90.63,UPI,Food Delivery,Returning
+KFC100144,2025-12-30,Bengaluru,South,Chicken Bucket,Buckets,1,599,5.0,599,29.95,569.05,363.88,205.17,UPI,In-Store,Returning
+KFC100107,2025-12-31,,North,Pepsi,Beverages,1,69,5.0,69,3.45,65.55,36.93,28.62,Cash,In-Store,Returning
+KFC100087,2025-12-31,Kolkata,East,Chicken Biryani,Meals,1,229,10.0,229,22.9,206.1,123.02,83.08,Credit Card,Website,New
+KFC101147,2025-12-31,Mumbai,West,Chicken Strips,Chicken,2,249,15.0,498,74.7,423.3,218.37,204.93,Debit Card,Food Delivery,New
+KFC100032,2025-12-31,Kolkata,East,Chicken Popcorn,Chicken,1,299,0.0,299,0.0,299.0,207.52,91.48,Debit Card,Website,Returning
+KFC100163,2025-12-31,Delhi,North,French Fries,Sides,1,99,5.0,99,4.95,94.05,45.33,48.72,Debit Card,In-Store,New
+KFC100322,2025-01-01,Kolkata,East,Chocolate Lava Cake,Desserts,4,129,0.0,516,0.0,516.0,278.87,237.13,Cash,Food Delivery,Returning
+KFC100065,2025-01-01,Chandigarh,North,Pepsi,Beverages,1,69,0.0,69,0.0,69.0,42.98,26.02,Debit Card,App,New
+KFC101038,2025-01-01,Bengaluru,South,Zinger Burger,Burgers,1,219,5.0,219,10.95,208.05,137.28,70.77,Debit Card,Food Delivery,New
+KFC100084,2025-01-01,Mumbai,West,Chicken Strips,Chicken,1,249,0.0,249,0.0,249.0,124.38,124.62,Wallet,App,Returning
+KFC100659,2025-01-01,Kolkata,East,Chocolate Lava Cake,Desserts,2,129,10.0,258,25.8,232.2,123.3,108.9,Cash,In-Store,New

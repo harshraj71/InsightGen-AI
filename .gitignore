@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 .streamlit/secrets.toml
+data/pizza_sales.csv
+data/kfc_style_sales_dataset.csv
